@@ -1,0 +1,312 @@
+[01-Mar-2015 19:10:22 UTC] PHP Notice:  Undefined index: matchId in /home/demarelle/public_html/play/admin/index.php on line 36
+[01-Mar-2015 19:10:22 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 96
+[01-Mar-2015 19:10:22 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 101
+[01-Mar-2015 19:10:22 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 101
+[01-Mar-2015 19:10:22 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 101
+[01-Mar-2015 19:10:22 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 107
+[01-Mar-2015 19:10:22 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 107
+[01-Mar-2015 19:10:22 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 107
+[01-Mar-2015 19:10:22 UTC] PHP Notice:  Undefined offset: 3 in /home/demarelle/public_html/play/admin/index.php on line 107
+[01-Mar-2015 19:10:22 UTC] PHP Notice:  Undefined offset: 4 in /home/demarelle/public_html/play/admin/index.php on line 107
+[01-Mar-2015 19:10:22 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:10:22 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:10:22 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:10:22 UTC] PHP Notice:  Undefined offset: 3 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:10:22 UTC] PHP Notice:  Undefined offset: 4 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:10:22 UTC] PHP Notice:  Undefined offset: 5 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:10:22 UTC] PHP Notice:  Undefined offset: 6 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:10:22 UTC] PHP Notice:  Undefined offset: 7 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:10:22 UTC] PHP Notice:  Undefined offset: 8 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:10:22 UTC] PHP Notice:  Undefined offset: 9 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:10:33 UTC] PHP Notice:  Undefined index: matchId in /home/demarelle/public_html/play/admin/index.php on line 36
+[01-Mar-2015 19:10:33 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 96
+[01-Mar-2015 19:10:33 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 101
+[01-Mar-2015 19:10:33 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 101
+[01-Mar-2015 19:10:33 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 101
+[01-Mar-2015 19:10:33 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 107
+[01-Mar-2015 19:10:33 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 107
+[01-Mar-2015 19:10:33 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 107
+[01-Mar-2015 19:10:33 UTC] PHP Notice:  Undefined offset: 3 in /home/demarelle/public_html/play/admin/index.php on line 107
+[01-Mar-2015 19:10:33 UTC] PHP Notice:  Undefined offset: 4 in /home/demarelle/public_html/play/admin/index.php on line 107
+[01-Mar-2015 19:10:33 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:10:33 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:10:33 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:10:33 UTC] PHP Notice:  Undefined offset: 3 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:10:33 UTC] PHP Notice:  Undefined offset: 4 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:10:33 UTC] PHP Notice:  Undefined offset: 5 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:10:33 UTC] PHP Notice:  Undefined offset: 6 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:10:33 UTC] PHP Notice:  Undefined offset: 7 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:10:33 UTC] PHP Notice:  Undefined offset: 8 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:10:33 UTC] PHP Notice:  Undefined offset: 9 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:10:35 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/demarelle/public_html/play/admin/index.php on line 188
+[01-Mar-2015 19:10:35 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/demarelle/public_html/play/admin/index.php on line 188
+[01-Mar-2015 19:10:35 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/demarelle/public_html/play/admin/index.php on line 188
+[01-Mar-2015 19:10:35 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/demarelle/public_html/play/admin/index.php on line 188
+[01-Mar-2015 19:10:35 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/demarelle/public_html/play/admin/index.php on line 188
+[01-Mar-2015 19:10:35 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/demarelle/public_html/play/admin/index.php on line 188
+[01-Mar-2015 19:10:35 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/demarelle/public_html/play/admin/index.php on line 188
+[01-Mar-2015 19:10:35 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/demarelle/public_html/play/admin/index.php on line 188
+[01-Mar-2015 19:10:35 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/demarelle/public_html/play/admin/index.php on line 188
+[01-Mar-2015 19:10:35 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/demarelle/public_html/play/admin/index.php on line 188
+[01-Mar-2015 19:10:35 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/demarelle/public_html/play/admin/index.php on line 188
+[01-Mar-2015 19:10:35 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/demarelle/public_html/play/admin/index.php on line 188
+[01-Mar-2015 19:10:35 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/demarelle/public_html/play/admin/index.php on line 188
+[01-Mar-2015 19:10:35 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/demarelle/public_html/play/admin/index.php on line 188
+[01-Mar-2015 19:10:35 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/demarelle/public_html/play/admin/index.php on line 188
+[01-Mar-2015 19:10:35 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/demarelle/public_html/play/admin/index.php on line 188
+[01-Mar-2015 19:10:35 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/demarelle/public_html/play/admin/index.php on line 188
+[01-Mar-2015 19:10:35 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/demarelle/public_html/play/admin/index.php on line 188
+[01-Mar-2015 19:11:05 UTC] PHP Notice:  Undefined index: matchId in /home/demarelle/public_html/play/admin/index.php on line 36
+[01-Mar-2015 19:11:05 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 96
+[01-Mar-2015 19:11:05 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 101
+[01-Mar-2015 19:11:05 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 101
+[01-Mar-2015 19:11:05 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 101
+[01-Mar-2015 19:11:05 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 107
+[01-Mar-2015 19:11:05 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 107
+[01-Mar-2015 19:11:05 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 107
+[01-Mar-2015 19:11:05 UTC] PHP Notice:  Undefined offset: 3 in /home/demarelle/public_html/play/admin/index.php on line 107
+[01-Mar-2015 19:11:05 UTC] PHP Notice:  Undefined offset: 4 in /home/demarelle/public_html/play/admin/index.php on line 107
+[01-Mar-2015 19:11:05 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:11:05 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:11:05 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:11:05 UTC] PHP Notice:  Undefined offset: 3 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:11:05 UTC] PHP Notice:  Undefined offset: 4 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:11:05 UTC] PHP Notice:  Undefined offset: 5 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:11:05 UTC] PHP Notice:  Undefined offset: 6 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:11:05 UTC] PHP Notice:  Undefined offset: 7 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:11:05 UTC] PHP Notice:  Undefined offset: 8 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:11:05 UTC] PHP Notice:  Undefined offset: 9 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:11:11 UTC] PHP Notice:  Undefined index: matchId in /home/demarelle/public_html/play/admin/index.php on line 36
+[01-Mar-2015 19:11:11 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 96
+[01-Mar-2015 19:11:11 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 101
+[01-Mar-2015 19:11:11 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 101
+[01-Mar-2015 19:11:11 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 101
+[01-Mar-2015 19:11:11 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 107
+[01-Mar-2015 19:11:11 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 107
+[01-Mar-2015 19:11:11 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 107
+[01-Mar-2015 19:11:11 UTC] PHP Notice:  Undefined offset: 3 in /home/demarelle/public_html/play/admin/index.php on line 107
+[01-Mar-2015 19:11:11 UTC] PHP Notice:  Undefined offset: 4 in /home/demarelle/public_html/play/admin/index.php on line 107
+[01-Mar-2015 19:11:11 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:11:11 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:11:11 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:11:11 UTC] PHP Notice:  Undefined offset: 3 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:11:11 UTC] PHP Notice:  Undefined offset: 4 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:11:11 UTC] PHP Notice:  Undefined offset: 5 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:11:11 UTC] PHP Notice:  Undefined offset: 6 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:11:11 UTC] PHP Notice:  Undefined offset: 7 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:11:11 UTC] PHP Notice:  Undefined offset: 8 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 19:11:11 UTC] PHP Notice:  Undefined offset: 9 in /home/demarelle/public_html/play/admin/index.php on line 113
+[01-Mar-2015 23:42:09 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/demarelle/public_html/play/admin/index.php on line 198
+[01-Mar-2015 23:42:50 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/demarelle/public_html/play/admin/index.php on line 198
+[01-Mar-2015 23:43:59 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/demarelle/public_html/play/admin/index.php on line 198
+[02-Mar-2015 00:58:37 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/demarelle/public_html/play/admin/index.php on line 189
+[02-Mar-2015 02:02:21 UTC] PHP Notice:  Undefined index: matchId in /home/demarelle/public_html/play/admin/index.php on line 36
+[02-Mar-2015 02:02:21 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 96
+[02-Mar-2015 02:02:21 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 101
+[02-Mar-2015 02:02:21 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 101
+[02-Mar-2015 02:02:21 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 101
+[02-Mar-2015 02:02:21 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:02:21 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:02:21 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:02:21 UTC] PHP Notice:  Undefined offset: 3 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:02:21 UTC] PHP Notice:  Undefined offset: 4 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:02:21 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:02:21 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:02:21 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:02:21 UTC] PHP Notice:  Undefined offset: 3 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:02:21 UTC] PHP Notice:  Undefined offset: 4 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:02:21 UTC] PHP Notice:  Undefined offset: 5 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:02:21 UTC] PHP Notice:  Undefined offset: 6 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:02:21 UTC] PHP Notice:  Undefined offset: 7 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:02:21 UTC] PHP Notice:  Undefined offset: 8 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:02:21 UTC] PHP Notice:  Undefined offset: 9 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:02:43 UTC] PHP Notice:  Undefined index: matchId in /home/demarelle/public_html/play/admin/index.php on line 36
+[02-Mar-2015 02:02:43 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 96
+[02-Mar-2015 02:02:43 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 101
+[02-Mar-2015 02:02:43 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 101
+[02-Mar-2015 02:02:43 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 101
+[02-Mar-2015 02:02:43 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:02:43 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:02:43 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:02:43 UTC] PHP Notice:  Undefined offset: 3 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:02:43 UTC] PHP Notice:  Undefined offset: 4 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:02:43 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:02:43 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:02:43 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:02:43 UTC] PHP Notice:  Undefined offset: 3 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:02:43 UTC] PHP Notice:  Undefined offset: 4 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:02:43 UTC] PHP Notice:  Undefined offset: 5 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:02:43 UTC] PHP Notice:  Undefined offset: 6 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:02:43 UTC] PHP Notice:  Undefined offset: 7 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:02:43 UTC] PHP Notice:  Undefined offset: 8 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:02:43 UTC] PHP Notice:  Undefined offset: 9 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:02:56 UTC] PHP Notice:  Undefined offset: 6 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:02:56 UTC] PHP Notice:  Undefined offset: 7 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:02:56 UTC] PHP Notice:  Undefined offset: 8 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:02:56 UTC] PHP Notice:  Undefined offset: 9 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:02:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:02:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:02:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:02:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:02:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:02:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:13:34 UTC] PHP Notice:  Undefined index: matchId in /home/demarelle/public_html/play/admin/index.php on line 36
+[02-Mar-2015 02:13:34 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 96
+[02-Mar-2015 02:13:34 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 101
+[02-Mar-2015 02:13:34 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 101
+[02-Mar-2015 02:13:34 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 101
+[02-Mar-2015 02:13:34 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:13:34 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:13:34 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:13:34 UTC] PHP Notice:  Undefined offset: 3 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:13:34 UTC] PHP Notice:  Undefined offset: 4 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:13:34 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:13:34 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:13:34 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:13:34 UTC] PHP Notice:  Undefined offset: 3 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:13:34 UTC] PHP Notice:  Undefined offset: 4 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:13:34 UTC] PHP Notice:  Undefined offset: 5 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:13:34 UTC] PHP Notice:  Undefined offset: 6 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:13:34 UTC] PHP Notice:  Undefined offset: 7 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:13:34 UTC] PHP Notice:  Undefined offset: 8 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:13:34 UTC] PHP Notice:  Undefined offset: 9 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:13:38 UTC] PHP Notice:  Undefined index: matchId in /home/demarelle/public_html/play/admin/index.php on line 36
+[02-Mar-2015 02:13:38 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 96
+[02-Mar-2015 02:13:38 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 101
+[02-Mar-2015 02:13:38 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 101
+[02-Mar-2015 02:13:38 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 101
+[02-Mar-2015 02:13:38 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:13:38 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:13:38 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:13:38 UTC] PHP Notice:  Undefined offset: 3 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:13:38 UTC] PHP Notice:  Undefined offset: 4 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:13:38 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:13:38 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:13:38 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:13:38 UTC] PHP Notice:  Undefined offset: 3 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:13:38 UTC] PHP Notice:  Undefined offset: 4 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:13:38 UTC] PHP Notice:  Undefined offset: 5 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:13:38 UTC] PHP Notice:  Undefined offset: 6 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:13:38 UTC] PHP Notice:  Undefined offset: 7 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:13:38 UTC] PHP Notice:  Undefined offset: 8 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:13:38 UTC] PHP Notice:  Undefined offset: 9 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:13:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:13:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:13:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:13:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:13:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:13:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:13:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:13:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:13:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:13:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:13:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:13:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:13:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:13:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:13:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:13:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:13:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:13:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:13:47 UTC] PHP Notice:  Undefined index: matchId in /home/demarelle/public_html/play/admin/index.php on line 36
+[02-Mar-2015 02:13:47 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 96
+[02-Mar-2015 02:13:47 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 101
+[02-Mar-2015 02:13:47 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 101
+[02-Mar-2015 02:13:47 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 101
+[02-Mar-2015 02:13:47 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:13:47 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:13:47 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:13:47 UTC] PHP Notice:  Undefined offset: 3 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:13:47 UTC] PHP Notice:  Undefined offset: 4 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:13:47 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:13:47 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:13:47 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:13:47 UTC] PHP Notice:  Undefined offset: 3 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:13:47 UTC] PHP Notice:  Undefined offset: 4 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:13:47 UTC] PHP Notice:  Undefined offset: 5 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:13:47 UTC] PHP Notice:  Undefined offset: 6 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:13:47 UTC] PHP Notice:  Undefined offset: 7 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:13:47 UTC] PHP Notice:  Undefined offset: 8 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:13:47 UTC] PHP Notice:  Undefined offset: 9 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:18:11 UTC] PHP Notice:  Undefined index: matchId in /home/demarelle/public_html/play/admin/index.php on line 36
+[02-Mar-2015 02:18:11 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 96
+[02-Mar-2015 02:18:11 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 101
+[02-Mar-2015 02:18:11 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 101
+[02-Mar-2015 02:18:11 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 101
+[02-Mar-2015 02:18:11 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:18:11 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:18:11 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:18:11 UTC] PHP Notice:  Undefined offset: 3 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:18:11 UTC] PHP Notice:  Undefined offset: 4 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:18:11 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:18:11 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:18:11 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:18:11 UTC] PHP Notice:  Undefined offset: 3 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:18:11 UTC] PHP Notice:  Undefined offset: 4 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:18:11 UTC] PHP Notice:  Undefined offset: 5 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:18:11 UTC] PHP Notice:  Undefined offset: 6 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:18:11 UTC] PHP Notice:  Undefined offset: 7 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:18:11 UTC] PHP Notice:  Undefined offset: 8 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:18:11 UTC] PHP Notice:  Undefined offset: 9 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:18:19 UTC] PHP Notice:  Undefined index: matchId in /home/demarelle/public_html/play/admin/index.php on line 36
+[02-Mar-2015 02:18:19 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 96
+[02-Mar-2015 02:18:19 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 101
+[02-Mar-2015 02:18:19 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 101
+[02-Mar-2015 02:18:19 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 101
+[02-Mar-2015 02:18:19 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:18:19 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:18:19 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:18:19 UTC] PHP Notice:  Undefined offset: 3 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:18:19 UTC] PHP Notice:  Undefined offset: 4 in /home/demarelle/public_html/play/admin/index.php on line 107
+[02-Mar-2015 02:18:19 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:18:19 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:18:19 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:18:19 UTC] PHP Notice:  Undefined offset: 3 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:18:19 UTC] PHP Notice:  Undefined offset: 4 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:18:19 UTC] PHP Notice:  Undefined offset: 5 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:18:19 UTC] PHP Notice:  Undefined offset: 6 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:18:19 UTC] PHP Notice:  Undefined offset: 7 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:18:19 UTC] PHP Notice:  Undefined offset: 8 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:18:19 UTC] PHP Notice:  Undefined offset: 9 in /home/demarelle/public_html/play/admin/index.php on line 113
+[02-Mar-2015 02:18:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:18:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:18:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:18:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:18:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:18:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:18:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:18:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:18:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:18:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:18:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:18:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:18:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:18:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:18:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:18:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:18:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[02-Mar-2015 02:18:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/demarelle/public_html/play/admin/index.php on line 152
+[06-Apr-2015 17:55:06 UTC] PHP Fatal error:  Call to undefined function getTiebreakerPoints() in /home/demarelle/public_html/play/admin/index.php on line 11
+[06-Apr-2015 17:55:49 UTC] PHP Fatal error:  Call to undefined function getTiebreakerPoints() in /home/demarelle/public_html/play/admin/index.php on line 11
+[06-Apr-2015 18:25:03 UTC] PHP Fatal error:  Call to undefined function getTiebreakerPoints() in /home/demarelle/public_html/play/admin/index.php on line 12
+[04-May-2015 17:30:43 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/demarelle/public_html/play/admin/admin-functions.php on line 398
+[18-Nov-2020 01:16:46 UTC] PHP Notice:  Undefined index: matchId in /home/demarelle/public_html/play/admin/index.php on line 38
+[18-Nov-2020 01:16:46 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 98
+[18-Nov-2020 01:16:46 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 103
+[18-Nov-2020 01:16:46 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 103
+[18-Nov-2020 01:16:46 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 103
+[18-Nov-2020 01:16:46 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 109
+[18-Nov-2020 01:16:46 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 109
+[18-Nov-2020 01:16:46 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 109
+[18-Nov-2020 01:16:46 UTC] PHP Notice:  Undefined offset: 3 in /home/demarelle/public_html/play/admin/index.php on line 109
+[18-Nov-2020 01:16:46 UTC] PHP Notice:  Undefined offset: 4 in /home/demarelle/public_html/play/admin/index.php on line 109
+[18-Nov-2020 01:16:46 UTC] PHP Notice:  Undefined offset: 0 in /home/demarelle/public_html/play/admin/index.php on line 115
+[18-Nov-2020 01:16:46 UTC] PHP Notice:  Undefined offset: 1 in /home/demarelle/public_html/play/admin/index.php on line 115
+[18-Nov-2020 01:16:46 UTC] PHP Notice:  Undefined offset: 2 in /home/demarelle/public_html/play/admin/index.php on line 115
+[18-Nov-2020 01:16:46 UTC] PHP Notice:  Undefined offset: 3 in /home/demarelle/public_html/play/admin/index.php on line 115
+[18-Nov-2020 01:16:46 UTC] PHP Notice:  Undefined offset: 4 in /home/demarelle/public_html/play/admin/index.php on line 115
+[18-Nov-2020 01:16:46 UTC] PHP Notice:  Undefined offset: 5 in /home/demarelle/public_html/play/admin/index.php on line 115
+[18-Nov-2020 01:16:46 UTC] PHP Notice:  Undefined offset: 6 in /home/demarelle/public_html/play/admin/index.php on line 115
+[18-Nov-2020 01:16:46 UTC] PHP Notice:  Undefined offset: 7 in /home/demarelle/public_html/play/admin/index.php on line 115
+[18-Nov-2020 01:16:46 UTC] PHP Notice:  Undefined offset: 8 in /home/demarelle/public_html/play/admin/index.php on line 115
+[18-Nov-2020 01:16:46 UTC] PHP Notice:  Undefined offset: 9 in /home/demarelle/public_html/play/admin/index.php on line 115

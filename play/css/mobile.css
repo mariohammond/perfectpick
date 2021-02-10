@@ -1,0 +1,398 @@
+/* Play Theme - CSS Styles (Mobile) */
+
+@media all and (max-width: 735px) {
+	
+body {
+	background-color: #fff;
+}
+.content {
+	width: auto;
+}
+.MenuContainer {
+	overflow: scroll;
+}
+.menu-button {
+	padding: 0 5px 0;
+}
+
+/** HEADER **/
+.HeaderContainer {
+	overflow: hidden;
+}
+.social-buttons {
+	display: none;
+}
+.sign-in-button {
+	padding: 0 4px;
+}
+.sign-in-button h1 {
+	font-size: 14px;
+}
+.HeaderContainer .banner-image {
+	margin: 10px 5px 0;
+}
+.HeaderContainer .banner-image img {
+	height: 27px;
+}
+
+/** FOOTER **/
+.FooterContainer {
+	top: 45px;
+}
+.FooterContainer .footer-logo-short {
+	height: 35px;
+	margin-top: 6px;
+}
+.FooterContainer .copyright {
+	font-size: 12px;
+	line-height: 18px;
+}
+.privacy, .terms {
+	display: none;	
+}
+
+/** AD **/
+.leaderboard {
+	width: 468px;
+	height: 60px;
+}
+
+/** HOME PAGE **/
+#page-home .content {
+	min-height: auto !important;
+}
+#page-home #region-1 {
+	padding-bottom: 10px;
+	background: #00a550;
+}
+#page-home #region-1 img {
+	margin: 10px 0;
+}
+#page-home #region-1 h1 {
+	font-size: 16px;
+}
+#page-home .action-button {
+	background-color: #2c3e50;
+}
+#page-home #region-2 h1,
+#page-home #region-3 h1 {
+	margin: 10px 0;
+}
+#page-home #region-2 img {
+	height: auto;
+}
+#page-home #region-3 {
+	padding-bottom: 10px;
+}
+
+/** DASHBOARD PAGE **/
+#page-dashboard #region-1 {
+	width: auto;
+}
+#page-dashboard #region-1 img {
+	width: 48%;
+}
+#page-dashboard #region-1 .find-match img,
+#page-dashboard #region-1 .achievements img,
+#page-dashboard #region-1 .contact-us img {
+	margin-right: 0;
+}
+
+/** PROFILE PAGE **/
+#page-profile .profile-content {
+	width: auto;
+}
+#page-profile .profile-sidebar {
+	width: 100%;
+	padding: 0;
+}
+#page-profile #region-1 {
+	border: none;
+}
+#page-profile #region-2,
+#page-profile #region-4,
+#page-profile #region-5 {
+	margin-left: 10px;
+	margin-right: 10px;	
+}
+#page-profile #region-1 .profile-name {
+	display: none;
+}
+#page-profile #region-1 .profile-name.mobile {
+	display: block;
+	font-size: 26px;
+	margin: 0 10px;
+}
+#page-profile #region-1 .profile-image {
+	max-height: 90px;
+	max-width: 90px;	
+}
+#page-profile #region-1 .main-info {
+	font-size: 25px;
+}
+#page-profile #region-1 .edit-icon img {
+	 height: 23px;
+	 margin: 5px 3px 0 0;
+}
+#page-profile #region-1 .tweet-profile img {
+	height: 25px;
+	margin-top: 3px;
+}
+#page-profile #region-3 td,
+#page-profile #region-6 td {
+	font-size: 16px;
+	text-align: center;
+}
+#page-profile #region-3  td.col1,
+#page-profile #region-6  td.col1 {
+	text-align: left;
+}
+#page-profile #region-3 .col2, 
+#page-profile #region-6 .col2,
+#page-profile #region-6 .col3 {
+	display: none;
+}
+#page-profile .profile-sidebar .fav-teams {
+	border: none;
+}
+
+/* Edit Profile Styles: Start */
+.FullEditProfile {
+	top: 45px;
+	width: 100%;
+}
+
+.EditContentContainer {
+	width: 98%;
+	margin: 10px auto;
+}
+
+.EditTitleContainer {
+	width: auto;
+}
+
+.EditContentContainer label.editTitle {
+	font-size: 20px;
+}
+
+.EditContentContainer label.tableLabel {
+	font-size: 16px;
+}
+
+.ChangeNameContainer, 
+.ChangeImageContainer, 
+.EmailAccountContainer, 
+.SocialAccountContainer,
+.FavTeamsContainer {
+	width: 92%;
+	margin: 0 auto 10px;
+}
+
+.ChangeNameContainer input[type="text"], 
+.EmailAccountContainer input[type="email"], 
+.EmailAccountContainer input[type="password"] {
+	font-size: 12px;
+}
+/* Edit Profile Styles: End */
+
+/* Match History Page: Start */
+.PreviousMatchesWrapper .PreviousMatches {
+	width: 100%;
+	padding: 10px 0;
+}
+/* Match History Page: End */
+
+/** MATCHES PAGE **/
+#page-matches #region-2 {
+	width: auto;
+	margin: 10px;
+}
+#page-matches #region-2 .top-bar h3 {
+	display: none;
+}
+#page-matches #region-2 .matches-list {
+	width: 100%;
+}
+#page-matches #region-2 #match-list {
+	display: none;
+}
+#page-matches #region-2 .match-list-mobile,
+#page-matches #region-2 .match-view-mobile {
+	display: block !important;
+	padding: 10px;
+}
+#page-matches #region-2 .match-list-mobile {
+	width: 65%;
+}
+#page-matches #region-2 .match-list-mobile p {
+	font-size: 17px;
+}
+#page-matches #region-2 #match-list .match-title {
+	font-weight: 700;
+}
+#page-matches #region-2 .view-match {
+	padding: 5px;
+}
+#page-matches #region-2 .matches-sidebar {
+	width: 100%;
+	padding: 10px 0 0;
+}
+
+/** MATCH PAGE **/
+#page-match .match-content {
+	width: 100%;	
+}
+#page-match #region-1, #page-match #region-3,
+#page-match #region-4, #page-match #region-5,
+#page-match #region-6 {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#page-match #region-4  .match-option {
+	width: 145px;	
+}
+#page-match #region-4 .match-option h1 {
+	font-size: 16px;	
+}
+#page-match #region-5 .match-standings {
+	width: 100%;
+}
+#page-match #region-6 #facebook_comments {
+	width: 100%;
+}
+#page-match #region-7 {
+	margin-bottom: 10px;
+	overflow: auto;
+}
+
+/* View Questions Page: Start */
+.ViewPicksContainer {
+	width: auto;
+}
+
+.MatchInfoContainer {
+	padding: 0 5px;
+}
+
+.MatchInfoContainer span {
+	display: none;
+}
+
+.ViewQuestionsContainer {
+	width: auto;
+	padding: 0 5px;
+	font-size: 18px;
+}
+/* View Questions Page: End */
+
+/** LEADERBOARD PAGE **/
+#page-leaderboard .leaderboard-content {
+	width: 100%;	
+}
+#page-leaderboard #region-3 {
+	padding: 0 5px;
+}
+#page-leaderboard #region-3 .time-frame {
+	width: 98px;
+}
+#page-leaderboard #region-3 .time-frame h1 {
+	font-size: 19px;
+}
+#page-leaderboard #region-4 table {
+	width: 100%;
+}
+#page-leaderboard #region-4 thead {
+	text-align: center;
+}
+#page-leaderboard #region-4 .tooltip-cell {
+	text-decoration: underline;
+}
+#page-leaderboard #region-4 .tooltip img {
+	display: none;
+}
+
+/** ACHIEVEMENTS PAGE **/
+#page-achievements .achievements-content {
+	width: 100%;
+}
+#page-achievements #region-2 {
+	width: auto;
+	padding: 0 5px;
+}
+#page-achievements #region-3 {
+	width: auto;
+	padding: 0 5px;
+}
+#page-achievements #region-3 hr {
+	display: none;	
+}
+#page-achievements #region-3 img {
+	height: 80px;
+	margin-right: 5px;
+}
+#page-achievements #region-3 .earned-title,
+#page-achievements #region-3 .unearned-title {
+	width: 100%;
+	text-align: center;
+}
+#page-achievements #region-3 h1.earned {
+	font-size: 20px;
+}
+#page-achievements #region-3 p.earned {
+	font-size: 15px;
+}
+#page-achievements #region-3 .unearned-achievements {
+	width: 300px;
+	margin: 0 auto 10px;
+}
+#page-achievements #region-3 .unearned-achievements figure {
+	width: 100px !important;
+	text-align: center;
+}
+
+/* 404 Page: Start */
+.PageNotFoundContainer h2,
+.PageNotFoundContainer p {
+	font-size: 15px;
+}
+/* 404 Page: End */
+
+/* JQuery Media Query Styles: Start */
+.mobileCheck {
+	display: block;
+}
+
+.wideCheck, .desktopCheck, .tabletCheck {
+	display: none;
+}
+/* JQuery Media Query Styles: End */
+
+/* Vex Dialog Box: Start */
+.vex.vex-theme-os .vex-content {
+	top: -50px;
+}
+/* Vex Dialog Box: End */
+
+}
+
+@media all and (max-width: 467px) {
+
+.leaderboard {
+	width: 320px;
+	height: 50px;
+}
+
+}
+
+@media all and (max-width: 320px) {
+
+#page-profile #region-1 .profile-image {
+	max-height: 85px;
+	max-width: 85px;
+	margin-right: 5px;
+}
+#page-profile #region-1 .main-info {
+	font-size: 18px;
+}
+
+}

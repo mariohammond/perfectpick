@@ -1,0 +1,9 @@
+name = Eagle
+description = Standard theme for Perfect Pickem Home Page
+package = Core
+core = 7.x
+stylesheets[all][] = css/main-mobile.css
+stylesheets[all][] = css/main-tablet.css
+stylesheets[all][] = css/main-desktop.css
+
+; 

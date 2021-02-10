@@ -1,0 +1,67 @@
+/* Eagle Theme - CSS Styles (Desktop) */
+
+@media all and (max-width: 1194px) {
+
+.content {
+	width: 980px;
+}
+
+/** HOME PAGE **/
+#page-home.content {
+	width: 1042px;
+}
+#page-home .featured-story.large,
+#page-home .featured-story.large img {
+	width: 650px;
+	max-height: 410px;
+}
+#page-home .featured-title {
+	width: auto;
+}
+#page-home .featured-text-large {
+	background-color: #2c3e50;
+}
+#page-home .featured-small-container {
+	width: 392px;
+}
+#page-home .featured-story.small,
+#page-home .featured-story.small img {
+	width: 382px;
+	height: 200px;
+}
+#page-home .featured-story.small h2 {
+	width: 372px;
+}
+#page-home #region-3 {
+	width: 732px;
+}
+#page-home .lead-story {
+	width: 359px;
+}
+#page-home .lead-story-image img {
+	width: 359px;
+	height: 226px;
+}
+#page-home #region-4a {
+	width: 732px;
+}
+#page-home #region-5 {
+	width: 732px;
+}
+#page-home .sport-list {
+	height: 290px;
+}
+#page-home #region-footer-ad {
+	width: 1042px;
+}
+
+
+/** MEDIA QUERIES **/
+.desktopCheck {
+	display: block;
+}
+.wideCheck, .tabletCheck, .mobileCheck {
+	display: none;
+}
+
+}

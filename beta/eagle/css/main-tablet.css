@@ -1,0 +1,12 @@
+/** @File - main-tablet.css
+/* @Description: Main css file for tablet screens
+/* @Author: D. Hammond
+/* @Created: 11/15/2015 - 1:50 PM
+/* @Modified:
+**/
+
+@media screen and (min-device-width: 481px) and (max-device-width: 959px) {
+	body {
+		
+	}
+}

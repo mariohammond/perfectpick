@@ -1,0 +1,843 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Playbuzz\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/playbuzz\n"
+"POT-Creation-Date: 2015-07-09 11:53+0300\n"
+"PO-Revision-Date: 2015-07-09 11:53+0300\n"
+"Last-Translator: Rami Y <r_a_m_i@hotmail.com>\n"
+"Language-Team: Playbuzz <publishers@playbuzz.com>\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html__;esc_html_e;esc_html_x;esc_attr__;"
+"esc_attr_e;esc_attr_x;gettext;gettext_noop\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#. Plugin Name of the plugin/theme
+#. Author of the plugin/theme
+#: admin.php:104 admin.php:105 scripts-styles.php:64
+msgid "Playbuzz"
+msgstr "פלייבאז"
+
+#: admin.php:128
+msgid "Playbuzz Plugin"
+msgstr "תוסף פלייבאז"
+
+#: admin.php:130
+msgid "Getting Started"
+msgstr "אופן שימוש"
+
+#: admin.php:131
+msgid "Site Settings"
+msgstr "הגדרות אתר"
+
+#: admin.php:132
+msgid "Shortcodes"
+msgstr "פקודות מאקרו"
+
+#: admin.php:133
+msgid "Feedback"
+msgstr "פידבק"
+
+#: admin.php:142
+msgid "Embed Items from Playbuzz"
+msgstr "הטמעת תכנים מתוך פלייבאז"
+
+#: admin.php:146
+msgid ""
+"Create a new post/page and click the blue Playbuzz button in the visual "
+"editor"
+msgstr "צרו פוסט/עמוד חדש וליחצו על הכפתור הכחול של פלייבאז בעורך הויזואלי"
+
+#: admin.php:149
+msgid ""
+"Search for any item, browse our featured items or select one of your own "
+"creations"
+msgstr ""
+"נווטו בפריטים המובחרים, חפשו מבין פריטים השונים או בחרו בין הפריטים שלכם"
+
+#: admin.php:152
+msgid "To embed the item to your post click on the “Embed” button"
+msgstr "להטמעת פריט כלשהו יש ללחוץ על הכפתור \"הטמעה\""
+
+#: admin.php:162
+msgid "Item Customization"
+msgstr "התאמות תצוגה"
+
+#: admin.php:166
+msgid ""
+"After embedding the item in your post, click on the settings icon to open "
+"the item settings panel"
+msgstr "אחרי הטמעת הפריט בפוסט, לחיצה על ה פריט תפתח חלון לביצוע התאמות תצוגה"
+
+#: admin.php:169
+msgid "Apply default site settings"
+msgstr "השתמשו בהגדרות ברירת המחדל של האתר"
+
+#: admin.php:172
+msgid "Or select the \"custom\" option to apply customized settings"
+msgstr "או בחרו לבצע התאמות תצוגה כדי להגדיר הגדרות ייחודיות לפריט"
+
+#: admin.php:180 admin.php:217
+msgid "Default Site Settings"
+msgstr "הגדרות ברירת מחדל של האתר"
+
+#: admin.php:184
+msgid ""
+"You don’t have to manually set the options for each of your embeds! You can "
+"now use the <a href=\"%s\">default site settings</a> panel"
+msgstr ""
+"אין צורך להגדיר הגדרות תצוגה לכל פריט מוטמע! ניתן להגדיר הגדרות ברירת מחדל "
+"לכל האתר דרך תפריט <a href=\"%s\">הגדרות האתר</a>"
+
+#: admin.php:187
+msgid ""
+"This panel  is always available for you <a href=\"%s\">here</a> and at the "
+"following path: Settings > Playbuzz > Customization"
+msgstr ""
+"תפריט זה תמיד זמין <a href=\"%s\">כאן</a> ובנתיב: הגדרות > פלייבאז > הגדרות "
+"אתר"
+
+#: admin.php:190
+msgid ""
+"Your site default settings won't override any of your manual item-specific "
+"settings!"
+msgstr ""
+"הגדרות ברירת המחדל של האתר לא ישפיעו על התאמות תצוגה ספציפיות שהוגדרו "
+"לפריטים נבחרים!"
+
+#: admin.php:204 scripts-styles.php:66
+msgid "My Items"
+msgstr "הפריטים שלי"
+
+#: admin.php:207
+msgid "Playbuzz Username"
+msgstr "שם משתמש בפלייבאז"
+
+#: admin.php:208
+msgid "e.g. sarahpark10"
+msgstr "למשל sarahpark10"
+
+#: admin.php:210
+msgid ""
+"You can find your username by going to your profile page on %s, and copying "
+"the username from the page URL. (Everything after the last \"/\")"
+msgstr "ניתן למצוא את שם המשתמש בעמוד הפרופיל שלך באתר %s, בכתובת ה-URL."
+
+#: admin.php:211
+msgid "Example:"
+msgstr "דוגמא:"
+
+#: admin.php:221 scripts-styles.php:125
+msgid "Display item information"
+msgstr "תצוגת פרטים"
+
+#: admin.php:223 scripts-styles.php:126
+msgid "Show item thumbnail, name, description, creator."
+msgstr "הצגת תמונה, כותרת, תיאור ויוצר."
+
+#: admin.php:227 scripts-styles.php:127
+msgid "Display share buttons"
+msgstr "תצוגת כפתורי שיתוף"
+
+#: admin.php:229 scripts-styles.php:128
+msgid "Show share buttons with links to YOUR site."
+msgstr "הצגת כפתורי שיתוף עם קישורים לאתר שלך."
+
+#: admin.php:233 scripts-styles.php:131
+msgid "Display Facebook comments"
+msgstr "תצוגת תגובות פייסבוק"
+
+#: admin.php:235 scripts-styles.php:132
+msgid "Show Facebook comments in your items."
+msgstr "הצגת תגובות פייסבוק בפריטים שהוטמעו."
+
+#: admin.php:241
+msgid "Sticky Header Preferences"
+msgstr "הגדרות ריווח עליון"
+
+#: admin.php:244 scripts-styles.php:134
+msgid "Height"
+msgstr "גובה"
+
+#: admin.php:246 scripts-styles.php:135
+msgid "px"
+msgstr "פיקסלים"
+
+#: admin.php:248 scripts-styles.php:136
+msgid ""
+"Use this if your website has top header that's always visible, even while "
+"scrolling down."
+msgstr ""
+"ניתן להשתמש באפשרות זו באתרים בהם הכותרת העליונה תמיד מוצגת, גם כשגוללים "
+"למטה."
+
+#: admin.php:254
+msgid "Appearance Preferences"
+msgstr "הגדרות תצוגה"
+
+#: admin.php:257
+msgid "Display embedded items on"
+msgstr "הצגת תכנים מוטמעים ב"
+
+#: admin.php:259
+msgid "Posts & Pages Only"
+msgstr "עמודי תוכן בלבד"
+
+#: admin.php:260
+msgid "All pages (singular, archive, ect.)"
+msgstr "בכל העמודים, כולל עמודי ארכיון"
+
+#: admin.php:263
+msgid ""
+"Whether to show the embedded content only in <a href=\"%s\" target=\"_blank"
+"\">singular pages</a>, or <a href=\"%s\" target=\"_blank\">archive page</a> "
+"too."
+msgstr ""
+"האם להציג את התכנים המוטמעים ב<a href=\"%s\">עמודי תוכן</a>, או גם ב<a href="
+"\"%s\">עמודי ארכיון</a>."
+
+#: admin.php:269
+msgid "Item Recommendations"
+msgstr "תכנים מומלצים"
+
+#: admin.php:273 scripts-styles.php:129
+msgid "Display more recommendations"
+msgstr "תצוגת תכנים מומלצים נוספים"
+
+#: admin.php:275 admin.php:465 admin.php:518 scripts-styles.php:130
+msgid "Show recommendations for more items."
+msgstr "הצגת המלצות לפריטים נוספים"
+
+#: admin.php:283 widgets.php:181
+msgid "Tags"
+msgstr "תגיות"
+
+#: admin.php:286 widgets.php:182
+msgid "All"
+msgstr "הכל"
+
+#: admin.php:290 widgets.php:183
+msgid "Fun"
+msgstr "כיף"
+
+#: admin.php:294 widgets.php:184
+msgid "Pop"
+msgstr "פופולריים"
+
+#: admin.php:298 widgets.php:185
+msgid "Geek"
+msgstr "גיקים"
+
+#: admin.php:302 widgets.php:186
+msgid "Sports"
+msgstr "ספורט"
+
+#: admin.php:306 widgets.php:187
+msgid "Editor's Pick"
+msgstr "בחירת העורכים"
+
+#: admin.php:311 widgets.php:190
+msgid "Custom Tags"
+msgstr "תגיות מותאמות אישית"
+
+#: admin.php:312
+msgid "Comma separated tags, e.g. food, rap, weather"
+msgstr "תגיות מופרדות בפסיקים, כגון food, rap, weather"
+
+#: admin.php:320
+msgid "Authentication"
+msgstr "הזדהות"
+
+#: admin.php:322
+msgid "API Key"
+msgstr "מפתח API"
+
+#: admin.php:331
+msgid "Related Content Customization"
+msgstr "הגדרת המלצות בהתאמה אישית"
+
+#: admin.php:335 widgets.php:162
+msgid "Number of Items"
+msgstr "מספר פריטים להצגה"
+
+#: admin.php:356 widgets.php:154
+msgid "Items layout"
+msgstr "פריסת פריטים"
+
+#: admin.php:358 widgets.php:156
+msgid "Large Images"
+msgstr "תמונות גדולות"
+
+#: admin.php:359 widgets.php:157
+msgid "Horizontal Images"
+msgstr "תמונות אנכיות"
+
+#: admin.php:360 widgets.php:158
+msgid "No Images"
+msgstr "ללא תמונות"
+
+#: admin.php:383
+msgid "Open Items at"
+msgstr "מיקום רשימת הפריטים"
+
+#: admin.php:385 widgets.php:195
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Create</a> a new page containing the "
+"<code>[playbuzz-section]</code> shortcode. Then select it below as the "
+"destination page where items will open:"
+msgstr ""
+"<a href=\"%s\" target=\"_blank\">צרו עמוד חדש</a> עם קוד ההטמעה "
+"<code>[playbuzz-section]</code>. הגדירו את העמוד כמיקום של רשימת הפריטים בו "
+"יפתחו פריטים שהוקלקו:"
+
+#: admin.php:392 widgets.php:203
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; בחירה &mdash;"
+
+#: admin.php:403
+msgid "Automatically Add Recommendations"
+msgstr "הוספת המלצות באופן אוטומטי"
+
+#: admin.php:406
+msgid "Active"
+msgstr "הפעל"
+
+#: admin.php:409
+msgid "Disable"
+msgstr "כבה"
+
+#: admin.php:410
+msgid "Enable"
+msgstr "הפעל"
+
+#: admin.php:415
+msgid "Location"
+msgstr "מיקום"
+
+#: admin.php:418
+msgid "Above the content"
+msgstr "מעל התוכן"
+
+#: admin.php:419
+msgid "Bellow the content"
+msgstr "מתחת לתוכן"
+
+#: admin.php:435
+msgid "Item Shortcode"
+msgstr "קוד הטמעה לפריט"
+
+#: admin.php:436
+msgid "Choose any Playful Content item from %s and easily embed it in a post."
+msgstr "בחרו פריט כלשהו מאתר %s והטמיעו אותו בקלות באתר."
+
+#: admin.php:437
+msgid ""
+"For basic use, paste the item URL into your text editor and go to the visual "
+"editor to make sure it loads."
+msgstr ""
+"לשימוש בסיסי, הדביקו את כתובת ה-URL של הפריט בעורך הטקסט וגשו לעורך "
+"הוויזואלי כדי לוודא שהוא נטען."
+
+#: admin.php:438
+msgid ""
+"For more advance usage, use the following shortcode if you want to adjust "
+"the item appearance:"
+msgstr "לשימוש מתקדם, השתמשו בקוד הטמעה הבא להתאמת התצוגה:"
+
+#: admin.php:440
+msgid ""
+"You can set default appearance settings in the <a href=\"%s\">Site Settings</"
+"a> tab."
+msgstr ""
+"ניתן להגדיר תצוגת ברירת מחדל לכל הפריטים המוטמעים ב<a href=\"%s\">הגדרות "
+"אתר</a>."
+
+#: admin.php:441
+msgid ""
+"Or you can override the default appearance and customize each item with the "
+"following shortcode attributes:"
+msgstr "או להגדיר לכל פריט תצוגה מותאמת אישית באמצעות הפרמטרים הבאים:"
+
+#: admin.php:445
+msgid "The URL of the item that will be displayed."
+msgstr "ה-URL של הפריט שיוצג."
+
+#: admin.php:446
+msgid "Type: URL"
+msgstr "סוג: URL"
+
+#: admin.php:450
+msgid "Show item info (thumbnail, name, description, editor, etc)."
+msgstr "הצגת פרטים כגון תמונה, כותרת, תיאור, ויוצר."
+
+#: admin.php:451 admin.php:456 admin.php:461 admin.php:466 admin.php:509
+#: admin.php:514 admin.php:519
+msgid "Type: Boolean (true/false) ; Default: true"
+msgstr "סוג: בוליאני (כן/לא) ; ברירת מחדל: כן"
+
+#: admin.php:455 admin.php:508
+msgid "Show sharing buttons."
+msgstr "הצגת כפתורי שיתוף."
+
+#: admin.php:460 admin.php:513
+msgid "Show comments control from the item page."
+msgstr "הצגת כפתורי שיתוף בעמוד הפריט."
+
+#: admin.php:470 admin.php:523
+msgid ""
+"Destination page, containing the [playbuzz-section] shortcode, where new "
+"items will be displayed."
+msgstr ""
+"עמוד היעד, המכיל את קוד ההטמעה [playbuzz-section], הוא העמוד בו יפתחו פריטים "
+"חדשים."
+
+#: admin.php:471 admin.php:524
+msgid "Type: URL ; Default: https://www.playbuzz.com/"
+msgstr "סוג: URL ; ברירת מחדל: https://www.playbuzz.com/"
+
+#: admin.php:475 admin.php:528
+msgid "Define custom width in pixels."
+msgstr "הגדרת רוחב מותאם אישית בפיקסלים."
+
+#: admin.php:476 admin.php:481 admin.php:529 admin.php:534
+msgid "Type: String ; Default: auto"
+msgstr "סוג: מחרוזת ; ברירת מחדל: auto"
+
+#: admin.php:480 admin.php:533
+msgid "Define custom height in pixels."
+msgstr "הגדרת גובה מותאם אישית בפיקסלים."
+
+#: admin.php:485 admin.php:538
+msgid "Define custom margin-top in pixels."
+msgstr "הגדרת ריווח עליון מותאם אישית בפיקסלים."
+
+#: admin.php:486 admin.php:539
+msgid "Type: String ; Default: 0px"
+msgstr "סוג: מחרוזת ; ברירת מחדל: 0px"
+
+#: admin.php:494
+msgid "Section Shortcode"
+msgstr "קוד הטמעה לרשימת פריטים"
+
+#: admin.php:495
+msgid ""
+"Choose any list of Playful Items in a specific vertical from %s and easily "
+"embed it in a post. This is best used as a \"Playful Section\" displaying "
+"items in the selected tags (topics)."
+msgstr ""
+"בחרו רשימת פריטים מקטגוריה מסויימת באתר %s והטמיעו אותה בקלות באתר. זו הדרך "
+"הטובה ביותר ליצור \"אזורים\" חדשים המציגים מגוון רחב של פריטים המבוססים על "
+"תגית מסויימת."
+
+#: admin.php:496
+msgid ""
+"For basic use, paste the section URL into your text editor and go to the "
+"visual editor to make sure it loads."
+msgstr ""
+"לשימוש בסיסי, הדביקו את כתובת ה-URL של רשימת הפריטים בעורך הטקסט וגשו לעורך "
+"הוויזואלי כדי לוודא שהם נטענו."
+
+#: admin.php:497
+msgid ""
+"Use the following shortcode if you want to adjust the settings of your "
+"embedded section:"
+msgstr ""
+"השתמשו בקוד ההטמעה הבא אם ברצונכם להתאים את אופן התצוגה של רשימת הפריטים:"
+
+#: admin.php:499
+msgid ""
+"You can tweak the general settings for the section with the following "
+"shortcode attributes:"
+msgstr ""
+"ניתן לעקוף את אפשרויות ההטמעה ולתת הגדרות ספציפיות לכל רשימה, על ידי הוספת "
+"הפרמטרים המתקדמים הבאים לקוד ההטמעה:"
+
+#: admin.php:503
+msgid "Filters the content shown by comma separated tags."
+msgstr "סינון התכנים המוצגים על ידי תגיות המופרדות בפסיקים."
+
+#: admin.php:504
+msgid "Type: String ; Default: All"
+msgstr "סוג: מחרוזת ; ברירת מחדל: All"
+
+#: admin.php:549
+msgid "We Are Listening"
+msgstr "אנחנו קשובים לצרכים שלכם"
+
+#: admin.php:551
+msgid ""
+"We’d love to know about your experiences with our WordPress plugin and "
+"beyond. Drop us a line using the form below"
+msgstr ""
+"נשמח לשמוע על חוויה שלכם בעבודה עם תוסף הוורדפרס של פלייבאז. שלחו פידבק "
+"בעזרת הטופס הבא"
+
+#: admin.php:559
+msgid "Your Name"
+msgstr "שם"
+
+#: admin.php:563
+msgid "Email (so we can write you back)"
+msgstr "אימייל (כדי שנוכל לחזור אלייכם)"
+
+#: admin.php:567
+msgid "Message"
+msgstr "הודעה"
+
+#: admin.php:568
+msgid "What's on your mind?"
+msgstr "על מה חשבתם?"
+
+#: admin.php:570
+msgid "WordPress plugin feedback"
+msgstr "משוב על תוסף של פלייבאז"
+
+#: admin.php:571
+msgid "Submit"
+msgstr "שליחה"
+
+#: admin.php:578
+msgid "Enjoying the Playbuzz WordPress Plugin?"
+msgstr "נהנים מתוסף הוורדפרס של פלייבאז?"
+
+#: admin.php:579
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Rate us</a> on the WordPress Plugin "
+"Directory to help others to discover the engagement value of Playbuzz embeds!"
+msgstr ""
+"<a href=\"%s\" target=\"_blank\">דרגו אותנו</a> בספריית התוספים של וורדפרס "
+"כדי לעזור לאחרים לגלות את התכנים של פלייבאז!"
+
+#: admin.php:585
+msgid "Become a Premium Playbuzz Publisher"
+msgstr "הצטרפו לשותפי הפרמיום של פלייבאז"
+
+#: admin.php:586
+msgid ""
+"Want to learn how Playbuzz can take your publication’s engagement to new "
+"heights?"
+msgstr "רוצים ללמוד איך פלייבאז יכולה לקחת את התכנים שלכם לגבהים חדשים?"
+
+#: admin.php:586
+msgid "Lets Talk!"
+msgstr "דברו איתנו!"
+
+#: admin.php:592
+msgid "Join the Playbuzz Publishers Community"
+msgstr "הצטרפו לקהילת המוציאים לאור של פלייבאז"
+
+#: index.php:43
+msgid "Settings"
+msgstr "הגדרות"
+
+#: scripts-styles.php:65
+msgid "Playbuzz Content"
+msgstr "תכנים מפלייבאז"
+
+#: scripts-styles.php:67
+msgid "+ Create Your Own"
+msgstr "יצירת פריט חדש"
+
+#: scripts-styles.php:68
+msgid "Search Term"
+msgstr "מילות חיפוש"
+
+#: scripts-styles.php:69
+msgid "Search my items"
+msgstr "חיפוש בפריטים שלי"
+
+#: scripts-styles.php:70
+msgid "Results for"
+msgstr "תוצאות חיפוש עבור"
+
+#: scripts-styles.php:71
+msgid "No results found"
+msgstr "לא נמצאו תוצאות"
+
+#: scripts-styles.php:72
+msgid "Please try again with a different search."
+msgstr "יש לנסות שנית עם מילות חיפוש חלופיות."
+
+#: scripts-styles.php:73
+msgid "Change User"
+msgstr "החלפת משתמש"
+
+#: scripts-styles.php:74
+msgid "Server error"
+msgstr "שגיאת שרת"
+
+#: scripts-styles.php:75
+msgid "Please try again in a few minutes."
+msgstr "יש לנסות שנית בעוד מספר דקות."
+
+#: scripts-styles.php:76
+msgid "No user"
+msgstr "לא הוגדר משתמש"
+
+#: scripts-styles.php:77
+msgid "Set User"
+msgstr "הגדרת משתמש"
+
+#: scripts-styles.php:78
+msgid ""
+"Go to the <a href=\"options-general.php?page=playbuzz&tab=embed\" target="
+"\"_blank\">Settings</a> and set your Playbuzz.com username."
+msgstr ""
+"יש לגשת למסך ה<a href=\"options-general.php?page=playbuzz&tab=embed\" target="
+"\"_blank\">הגדרות</a> כדי להגדיר את המשתמש שלך באתר Playbuzz.com."
+
+#: scripts-styles.php:79
+msgid "You don't have any items (yet!)."
+msgstr "אין לך פריטים (עדיין!)"
+
+#: scripts-styles.php:80
+msgid ""
+"Go to <a href=\"https://www.playbuzz.com/\" target=\"_blank\">Playbuzz.com</"
+"a> to create your own playful content and embed on your site."
+msgstr ""
+"ניתן ליצור תכנים ויראליים חדשים באתר <a href=\"https://www.playbuzz.com/\" "
+"target=\"_blank\">Playbuzz.com</a> ולהטמיע אותם באתר."
+
+#: scripts-styles.php:81
+msgid "page"
+msgstr "עמוד"
+
+#: scripts-styles.php:82
+msgid "Jan"
+msgstr "ינואר"
+
+#: scripts-styles.php:83
+msgid "Feb"
+msgstr "פברואר"
+
+#: scripts-styles.php:84
+msgid "Mar"
+msgstr "מרץ"
+
+#: scripts-styles.php:85
+msgid "Apr"
+msgstr "אפריל"
+
+#: scripts-styles.php:86
+msgid "May"
+msgstr "מאי"
+
+#: scripts-styles.php:87
+msgid "Jun"
+msgstr "יוני"
+
+#: scripts-styles.php:88
+msgid "Jul"
+msgstr "יולי"
+
+#: scripts-styles.php:89
+msgid "Aug"
+msgstr "אוגוסט"
+
+#: scripts-styles.php:90
+msgid "Sep"
+msgstr "ספטמבר"
+
+#: scripts-styles.php:91
+msgid "Oct"
+msgstr "אוקטובר"
+
+#: scripts-styles.php:92
+msgid "Nov"
+msgstr "נובמבר"
+
+#: scripts-styles.php:93
+msgid "Dec"
+msgstr "דצמבר"
+
+#: scripts-styles.php:94
+msgid "Show"
+msgstr "הצג"
+
+#: scripts-styles.php:95
+msgid "All Types"
+msgstr "כל הסוגים"
+
+#: scripts-styles.php:96
+msgid "Personality Quiz"
+msgstr "חידון אישיות"
+
+#: scripts-styles.php:97
+msgid "List"
+msgstr "רשימה"
+
+#: scripts-styles.php:98
+msgid "Trivia"
+msgstr "טריוויה"
+
+#: scripts-styles.php:99
+msgid "Poll"
+msgstr "סקר"
+
+#: scripts-styles.php:100
+msgid "Ranked List"
+msgstr "רשימה מדורגת"
+
+#: scripts-styles.php:101
+msgid "Gallery Quiz"
+msgstr "גלריה"
+
+#: scripts-styles.php:102
+msgid "Sort By"
+msgstr "סינון לפי"
+
+#: scripts-styles.php:103
+msgid "Relevance"
+msgstr "רלוונטיות"
+
+#: scripts-styles.php:104
+msgid "Views"
+msgstr "צפיות"
+
+#: scripts-styles.php:105
+msgid "Date"
+msgstr "תאריך"
+
+#: scripts-styles.php:106
+msgid "Discover Playful Content"
+msgstr "גלו תכנים ויראליים חדשים"
+
+#: scripts-styles.php:107
+msgid "Featured Items"
+msgstr "פריטים מובחרים"
+
+#: scripts-styles.php:108
+msgid "Created by"
+msgstr "מאת"
+
+#: scripts-styles.php:109
+msgid "by"
+msgstr "מאת"
+
+#: scripts-styles.php:110
+msgid "By"
+msgstr "מאת"
+
+#: scripts-styles.php:111
+msgid "on"
+msgstr "בתאריך"
+
+#: scripts-styles.php:112
+msgid "items"
+msgstr "פריטים"
+
+#: scripts-styles.php:113
+msgid "View"
+msgstr "הצגה"
+
+#: scripts-styles.php:114
+msgid "Embed"
+msgstr "הטמעה"
+
+#: scripts-styles.php:115
+msgid "Preview item"
+msgstr "תצוגה מקדימה"
+
+#: scripts-styles.php:116
+msgid "Playbuzz item does not exist"
+msgstr "הפריט אינו קיים"
+
+#: scripts-styles.php:117
+msgid "Check shortcode URL in the text editor."
+msgstr "יש לבדוק את הכתובת שהוזנה בפקודת המקרו ולתקן אותה."
+
+#: scripts-styles.php:118
+msgid "Your item will be embedded here"
+msgstr "הפריט יוטמע כאן"
+
+#: scripts-styles.php:119
+msgid "Playbuzz Item Settings"
+msgstr "הגדרות תצוגה"
+
+#: scripts-styles.php:120
+msgid "Item Settings"
+msgstr "הגדרות תצוגה"
+
+#: scripts-styles.php:121
+msgid "Embedded Item Appearance"
+msgstr "תצוגה של הפריט המוטמע"
+
+#: scripts-styles.php:122
+msgid "Use site default settings"
+msgstr "השתמש בהגדרות ברירת מחדל של האתר"
+
+#: scripts-styles.php:123
+msgid "Configure default settings"
+msgstr "ערוך הגדרות ברירת מחדל"
+
+#: scripts-styles.php:124
+msgid "Custom"
+msgstr "תצוגה יחודית לפריט זה"
+
+#: scripts-styles.php:133
+msgid "Site has fixed (sticky) top header"
+msgstr "לאתר יש כותרת עליונה קבועה (דביקה)"
+
+#: scripts-styles.php:137
+msgid "Cancel"
+msgstr "ביטול"
+
+#: scripts-styles.php:138
+msgid "Update Item"
+msgstr "עדכון פריט"
+
+#: scripts-styles.php:139
+msgid "Feedback sent, thank you!"
+msgstr "פידבק נשלח, תודה!"
+
+#: scripts-styles.php:140
+msgid "Something went wrong please try again..."
+msgstr "ארעה שגיאה, יש לנסות שנית..."
+
+#: scripts-styles.php:141
+msgid "Some required fields are missing."
+msgstr "חסרים שדות חובה מסוימים."
+
+#: widgets.php:31
+msgid "Playbuzz Recommendations"
+msgstr "המלצות פלייבאז"
+
+#: widgets.php:34
+msgid "Related Playful Content links and recommendations by playbuzz."
+msgstr "המלצות ותכנים באותו נושא של פלייבאז."
+
+#: widgets.php:130
+msgid "Play It"
+msgstr "שחק אותה"
+
+#: widgets.php:150
+msgid "Title"
+msgstr "כותרת"
+
+#: widgets.php:151
+msgid "Widget title"
+msgstr "כותרת הוידג'ט"
+
+#: widgets.php:191
+msgid "Comma separated tags"
+msgstr "תגיות מופרדות בפסיקים"
+
+#: widgets.php:194
+msgid "Open Items at (location of section)"
+msgstr "מיקום רשימת הפריטים (שם יפתחו הפריטים שהוקלקו)"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.playbuzz.com/"
+msgstr "https://www.playbuzz.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"Embed customized playful content from Playbuzz.com into your WordPress site"
+msgstr "הטמעת תכנים ויראליים מתוך פלייבאז באתר הוורדפרס שלך"

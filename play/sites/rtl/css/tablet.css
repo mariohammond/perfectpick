@@ -1,0 +1,97 @@
+/* Play Theme - CSS Styles (Tablet) */
+
+@media all and (max-width: 1040px) {
+	
+/** HEADER **/
+.header .header-info {
+	padding-top: 8px;
+}
+.header .header-info p {
+	font-size: 20px;
+}
+.header .social-buttons {
+	margin-right: 10px;
+}
+.header .fa {
+	width: 25px;
+	font-size: 25px;
+	border-radius: 25px;
+}
+
+/** GLOBAL PAGES **/
+.content {
+	width: 728px;
+}
+
+/** HOME PAGE **/
+#page-home .president-section {
+	margin-bottom: 0;
+}
+#page-home .president-section .section-title {
+	float: left;
+    width: 100%;
+    margin-bottom: 20px;
+}
+#page-home #slideshow {
+	width: 720px;
+	height: 315px;
+	margin: 0 auto;
+	padding: 20px 0;
+}
+#page-home .photo-gallery .photo img {
+	width: 720px;
+	height: 315px;
+}
+#page-home #slideshow .fa {
+	top: 125px;
+}
+#page-home #slideshow .fa-angle-right {
+	left: 678px;
+}
+#page-home .events-section {
+	margin-bottom: 20px;
+}
+#page-home .events-section img {
+	margin-right: 49px;
+}
+#page-home .events-section figure:nth-of-type(3n) img {
+	margin-right: 0;
+}
+#page-home .social-section {
+	float: none;
+	width: 100%;
+    text-align: center;
+}
+
+/** CURRENT MEMBERS PAGE **/
+#page-members .officers figure {
+	margin-right: 56px;
+}
+#page-members .officers figure:nth-of-type(3n) {
+	margin-right: 0;
+}
+#page-members .officers figure:nth-of-type(3n+1) {
+	clear: both;
+}
+#page-members .officers figure:nth-of-type(4n) {
+	margin-right: 56px;
+}
+#page-members .officers figure:nth-of-type(5n) {
+	clear: none;
+}
+#page-members ul {
+	width: 728px;
+}
+#page-members .members li {
+	width: 364px;
+}
+
+/** MEDIA QUERIES **/
+.tabletCheck {
+	display: block;
+}
+.wideCheck, .desktopCheck, .mobileCheck {
+	display: none;
+}
+
+}

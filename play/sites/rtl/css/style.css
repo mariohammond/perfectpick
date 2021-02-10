@@ -1,0 +1,420 @@
+/********************************************************************************************************************/
+/******************************************** MAIN RTL STYLES ******************************************************/
+/******************************************************************************************************************/
+
+html { display: block; }
+
+/** GLOBAL STYLES **/
+html, body {
+	margin: 0 !important;
+}
+a:link, a:visited, a:active {
+    text-decoration: none;
+	color: inherit;
+}
+p, h1, h2, h3, td, th, label, caption, figcaption {
+	font-family: 'Lora', sans-serif;
+	margin: 0;
+}
+h1 {
+	font-size: 26px;
+	font-weight: 700;
+}
+h2 {
+	font-size: 22px;
+	font-weight: 700;
+}
+p {
+	font-size: 16px;
+	font-weight: 400;
+}
+ul {
+	margin: 0;
+	padding: 0;
+}
+li {
+	list-style-type: none;
+}
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+.clear {
+	clear: both;
+}
+.flex {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-flow: row wrap;
+	flex-flow: row wrap;
+}
+
+/** MENU **/
+.menu-container {
+	height: 70px;
+	padding-top: 20px;
+    border-right: 5px solid #cfb53b;
+}
+.menu {
+	width: 228px;
+	border-right: 2px solid #cfb53b;
+	color: #000;
+	background-color: #cfb53b;
+	position: fixed;
+	left: -230px;
+	-webkit-transition: left 1s;
+    transition: left 1s;	
+	z-index: 10;
+	top: 0px;
+	overflow: hidden;
+}
+.menu-button {
+	display: inline;
+	width: 45px;
+	height: 45px;
+	padding: 0 10px 0;
+	cursor: pointer;
+	-webkit-transition: background-color 1s;
+    transition: background-color 1s;
+}
+.menu-button img {
+	height: 50px;
+    padding-bottom: 25px;
+}
+.menu-list {
+	margin: 0;
+	padding: 0;
+	font-family: 'Lora', sans-serif;
+	font-size: 21px;
+}
+.menu-title {
+	height: 30px;
+	padding: 10px 0 0 5px;
+	border-bottom: 5px solid #000;
+	font-size: 20px;
+	font-weight: bold;
+}
+.menu-close {
+	height: 20px;
+	float: right;
+	margin: 2px 7px 0 0;
+	cursor: pointer;
+}
+.menu-option {
+	padding: 5px;
+	border-bottom: 1px solid #000;
+	font-size: 18px;
+	line-height: 30px;
+	cursor: pointer;
+}
+.menu-chevron img {
+	height: 24px;
+ 	margin: 3px 5px 0 0;
+}
+.menu-option.sub-menu {
+	display: none;
+	padding-left: 20px;
+	font-weight: bold;
+}
+
+/** HEADER **/
+.header {
+	width: 100%;
+	height: 90px;
+	background-color: #000;
+	border-bottom: 5px solid #cfb53b;
+}
+.header .logo {
+	float: left;
+	height: 80px;
+    margin: 5px 10px 0;
+}
+.header .header-info {
+	float: left;
+	padding-top: 4px;
+}
+.header .header-info p {
+	font-size: 22px;
+	color: #fff;	
+	text-transform: uppercase;
+}
+.header .social-buttons {
+	margin: 20px 25px 0 0;
+}
+.header .fa {
+	width: 30px;
+	margin-right: 10px;
+	padding: 8px;
+	font-size: 30px;
+	border-radius: 30px;
+	background-color: #cfb53b;
+	color: #fff;
+	text-align: center;
+}
+.header .fa-google-plus {
+	margin-right: 0;
+}
+.header .fa-facebook:hover {
+	color: #fff;
+	background-color: #3b5998;
+}
+.header .fa-twitter:hover {
+	color: #fff;
+	background-color: #4099ff;
+}
+.header .fa-google-plus:hover {
+	color: #fff;
+	background-color: #dd4b39;
+}
+
+/** FOOTER **/
+.footer {
+	width: 100%;
+	height: 90px;
+	background-color: #000;
+	border-top: 5px solid #cfb53b;
+}
+.footer .logo {
+	float: left;
+	height: 80px;
+    margin: 5px 10px 0;
+}
+.footer .footer-info {
+	margin: 6px 0 0 0;
+}
+.footer .footer-info p {
+	font-size: 16px;
+	color: #fff;
+}
+.footer .footer-contact {
+	margin: 32px 30px 0 0;
+}
+.footer .footer-contact p {
+	font-size: 22px;
+    text-transform: uppercase;
+    color: #cfb53b;
+}
+
+/** GLOBAL PAGES **/
+.content {
+	width: 1038px;
+	margin: 40px auto;
+	overflow: auto;
+}
+.section-title {
+	padding-left: 10px;
+	font-size: 32px;
+	text-transform: uppercase;
+    background: #cfb53b;
+    border-bottom: 3px solid #000;
+}
+
+/** HOME PAGE **/
+#page-home .president-section {
+	margin-bottom: 40px;
+    overflow: auto;
+}
+#page-home .president-section .section-title {
+	float: right;
+    width: 708px;
+}
+#page-home .president-section img {
+	height: 300px;
+	margin-right: 20px;
+}
+#page-home .president-section p {
+	font-size: 20px;
+	line-height: 40px;
+	text-align: justify;
+}
+#page-home .gallery-container {
+	position: relative;
+	max-width: none;
+}
+#page-home #slideshow {
+	position: relative;
+	width: 1030px;
+	max-width: none;
+	height: 450px;
+	margin: 0 0 10px -60px;
+	padding: 20px 0 40px;
+	overflow: hidden;
+}
+#page-home .photo-gallery {
+	position: relative;
+	left: 0;
+	float: left;
+    width: 6000px;
+	max-width: none;
+	-webkit-transition: left .5s;
+    transition: left .5s;
+}
+#page-home .photo-gallery .photo {
+	float: left;
+}
+#page-home .photo-gallery .photo img {
+	width: 1030px;
+	height: 450px;
+}
+#page-home #slideshow .fa {
+	position: absolute;
+	top: 198px;
+	font-size: 100px;
+	color: #ffffff;
+	z-index: 2;
+	cursor: pointer;
+}
+#page-home #slideshow .fa.fade {
+	opacity: 0.3;
+}
+#page-home #slideshow .fa-angle-left {
+	left: 10px;
+}
+#page-home #slideshow .fa-angle-right {
+	left: 984px;
+}
+#page-home .events-section {
+	width: 728px;
+}
+#page-home .events-section figure {
+	float: left;
+	margin: 0;
+}
+#page-home .events-section img {
+	width: 450px;
+    height: 650px;
+    margin: 20px 30px 0 0;
+}
+#page-home .events-section figcaption {
+	width: 210px;
+	text-align: center;
+}
+#page-home .event-text {
+	width: 248px;
+	margin-top: 20px;
+}
+#page-home .social-section {
+	width: 300px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+/** RTL HISTORY PAGE **/
+#page-rtl-history .section-title {
+	margin-bottom: 20px;
+}
+#page-rtl-history .rtl-history p {
+    font-size: 20px;
+    line-height: 40px;
+    text-align: justify;
+}
+#page-rtl-history .rtl-history img {
+	height: 300px;
+}
+#page-rtl-history .rtl-history .image-1 {
+	margin-right: 20px;
+}
+#page-rtl-history .rtl-history .image-holder {
+	width: 100%;
+	text-align: center;
+}
+#page-rtl-history .rtl-history .image-2 {
+	margin: 20px 0;
+}
+#page-rtl-history .rtl-history .image-3 {
+	margin-left: 20px;
+}
+#page-rtl-history .rtl-charters {
+	margin-top: 20px;
+}
+#page-rtl-history .rtl-charters li {
+	font-size: 20px;
+    line-height: 40px;
+	text-align: center;
+}
+
+/** APA HISTORY PAGE **/
+#page-apa-history .section-title {
+	margin-bottom: 20px;
+}
+#page-apa-history .alpha-history img {
+	height: 300px;
+}
+#page-apa-history .alpha-history .image-1 {
+	margin-left: 20px;
+}
+#page-apa-history .alpha-history p {
+	margin-bottom: 20px;
+    font-size: 20px;
+    line-height: 40px;
+    text-align: justify;
+}
+#page-apa-history .founder-info {
+	padding: 10px;
+}
+#page-apa-history .founder-info:nth-of-type(odd) {
+	background-color: #eee;
+}
+#page-apa-history .founder-info img {
+	height: 200px;
+	margin-right: 20px;
+}
+#page-apa-history .founder-info h2 {
+	text-transform: uppercase;
+}
+#page-apa-history .founder-info p {
+	margin-bottom: 0;
+}
+
+/** CURRENT MEMBERS PAGE **/
+#page-members .group-image {
+	margin-bottom: 20px;
+	text-align: center;
+}
+#page-members .group-image img{
+	max-width: 728px;
+}
+#page-members .officers figure {
+	float: left;
+	margin: 20px 72px 20px 0;
+}
+#page-members .officers figure:nth-of-type(4n) {
+	margin-right: 0;
+}
+#page-members .officers figure:nth-of-type(5n) {
+	clear: both;
+}
+#page-members .officers figure img {
+	width: 205px;
+}
+#page-members .officers figcaption {
+	margin-top: 10px;
+}
+#page-members .members {
+	margin-top: 20px;
+}
+#page-members ul {
+	float: left;
+	width: 1038px;
+	margin-top: 20px;
+}
+#page-members .members li {
+	float: left;
+	width: 346px;
+	font-size: 20px;
+    line-height: 40px;
+}
+#page-members .members span {
+	color: #cfb53b;
+}
+
+/** LINEAGE PAGE **/
+#page-lineage .lineage ul {
+	margin-bottom: 20px;
+}
+#page-lineage .lineage li {
+	font-size: 20px;
+    line-height: 40px;
+}

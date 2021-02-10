@@ -1,0 +1,149 @@
+/* Eagle Theme - CSS Styles (Mobile) */
+
+@media all and (max-width: 735px) {
+	.HeaderContainer {
+		height: 35px;
+	}
+	
+	.menu-button {
+		width: 30px;
+		height: 35px;
+	}
+	
+	.menu-button img {
+		height: 35px;
+	}
+	
+	.sign-in-button {
+		display: none;
+	}
+	
+	.menu-option.sign-in {
+		display: block !important;
+		padding-bottom: 3px;
+	}
+	
+	.banner-image img {
+		height: 35px;
+		margin-top: 1px;
+	}
+	.ad-block-2 {
+		display: none;
+	}
+	
+	.GameBlockContainer {
+		display: none;
+	}
+	
+	.StoryContainer {
+		display: block !important;
+		margin: 10px;
+	}
+	
+	.featured-image img {
+		height: initial;
+	}
+	
+	.featured-title {
+		font-size: 26px;
+	}
+	
+	.featured-deck {
+		font-size: 12px;
+	}
+	
+	.lead-story-image {
+		width: 40%;
+	}
+	
+	.lead-story-text h2 {
+		font-size: 20px;
+	}
+	
+	.lead-story p {
+		display: none;
+	}
+	
+	.TabletAdContainer {
+		display: none !important;
+	}
+	
+	.youtube-channel {
+		display: none;
+	}
+	
+	.sport-list {
+		width: 100%;
+		height: 290px;
+	}
+	
+	.StoryListContainer .list-content {
+		padding: 8px 10px 0 10px;
+	}
+	
+	.list-content p {
+		font-size: 17px;
+	}
+	
+	.FooterContainer p {
+		line-height: 17px;
+	}
+	
+	.footer-logo-short {
+		margin-top: 5px !important;
+	}
+	
+	.privacy, .terms {
+		display: none;	
+	}
+	
+	/* Landing Page Styles: Start */
+	.category-list-content h2 {
+		font-size: 22px;
+	}
+	
+	.category-list-summary {
+		display: none;
+	}
+	
+	.category-list-byline {
+		display: none;
+	}
+	
+	.category-list-social {
+		display: none;
+	}
+	/* Landing Page Styles: End */
+	
+	/* Article Page Styles: Start */
+	.ArticleContainer h1 {
+		font-size: 22px;	 
+	}
+	 
+	.ArticleContainer p,
+	.ArticleContainer .article-date {
+		 font-size: 18px;
+	}
+	 
+	.ArticleContainer .addthis_sharing_toolbox {
+		display: block;
+	}
+	/* Article Page Styles: End */
+	
+	/* AddThis Social Icons: Start */
+	.addthis_sharing_toolbox {
+		display: none;
+	}
+	#atstbx2 {
+		display: none;
+	}
+	/* AddThis Social Icons: End */
+}
+
+/* Small handheld overrides */
+@media all and (max-width: 414px) {
+	.ArticleContainer p,
+	.ArticleContainer .article-date {
+		 font-size: 12px;
+	 }
+}

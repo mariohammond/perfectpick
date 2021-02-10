@@ -1,0 +1,17 @@
+/* Play Theme - CSS Styles (Desktop) */
+
+@media all and (max-width: 1194px) {
+	.WidgetContainer {
+		display: none;
+	}
+	
+	/* JQuery Media Query Styles: Start */
+	.desktopCheck {
+		display: block;
+	}
+	
+	.wideCheck, .tabletCheck, .mobileCheck {
+		display: none;
+	}
+	/* JQuery Media Query Styles: End */
+}

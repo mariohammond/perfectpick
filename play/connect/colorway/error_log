@@ -1,0 +1,1 @@
+[19-Mar-2015 01:37:47 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/demarelle/public_html/play/connect/colorway/index.php on line 13

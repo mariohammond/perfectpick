@@ -1,0 +1,103 @@
+/* Play Theme - CSS Styles (Tablet) */
+
+@media all and (max-width: 1040px) {
+	
+.MenuContainer {
+	overflow: scroll;
+}
+.content {
+	width: 728px;
+}
+.footer-logo-full {
+	display: none;
+}
+.footer-logo-short {
+	display: block !important;
+}
+
+/** HOME PAGE **/
+#page-home #region-3 .social-icons img {
+	height: 100px;
+}
+
+/** DASHBOARD PAGE **/
+#page-dashboard #region-1 {
+	width: 728px;
+}
+#page-dashboard #region-1 img {
+	float: left;
+	width: 350px;
+	margin-right: 10px;
+}
+#page-dashboard #region-1 .find-match img,
+#page-dashboard #region-1 .achievements img,
+#page-dashboard #region-1 .contact-us img {
+	float: right;	
+}
+
+/** PROFILE PAGE **/
+#page-profile .profile-sidebar {
+	width: 728px;
+}
+#page-profile .profile-sidebar .fav-teams {
+	height: auto;
+	background-color: #ddd;	
+}
+#page-profile .profile-sidebar .ad {
+	display: none;
+}
+
+/** MATCH HISTORY PAGE **/
+.PreviousMatchesWrapper .PreviousMatches {
+	width: 100%;
+	padding: 10px 0;
+}
+
+/** MATCHES PAGE **/
+#page-matches #region-2 {
+	width: 680px;	
+}
+#page-matches #region-2 .matches-sidebar {
+	width: 660px;
+	height: auto;	
+}
+#page-matches #region-2 .ad-block {
+	display: none;
+}
+#page-matches #region-2 .matches-list {
+	width: 680px;
+	height: auto;
+}
+
+/** MATCH PAGE **/
+#page-match .match-sidebar {
+	display: none;
+}
+
+/** VIEW QUESTIONS PAGE **/
+.ViewPicksContainer {
+	width: 730px;
+}
+.ViewPicksContainer .ad-block-right {
+	display: none;
+}
+
+/** LEADERBOARD PAGE **/
+#page-leaderboard .leaderboard-sidebar {
+	display: none;
+}
+
+/** ACHIEVEMENTS PAGE **/
+#page-achievements .achievements-sidebar {
+	display: none;
+}
+
+/** MEDIA QUERIES **/
+.tabletCheck {
+	display: block;
+}
+.wideCheck, .desktopCheck, .mobileCheck {
+	display: none;
+}
+
+}

@@ -1,0 +1,208 @@
+/* Eagle Theme - CSS Styles (Tablet) */
+
+@media all and (max-width: 1049px) {
+	
+.content {
+	width: 728px;
+}
+
+/** AD **/
+.lrg-leaderboard {
+	width: 728px;
+}
+.billboard {
+	width: 728px;
+	height: 90px;
+}
+.article-insert {
+	width: 728px;
+	height: 90px;
+}
+#region-footer-ad {
+	width: 728px;
+}
+
+/** MENU **/
+.MenuContainer {
+	overflow: scroll;
+}
+
+/** HOME PAGE **/
+#page-home.content {
+	width: 728px;
+}
+#page-home #region-1 {
+	width: 728px;
+}
+#page-home .next-match {
+	display: none;
+}
+#page-home .featured-story.large,
+#page-home .featured-story.large img {
+	width: 100%;
+	height: auto;
+	max-height: none;
+}
+#page-home .featured-small-container {
+	width: 100%;
+}
+#page-home .featured-story.small:first-of-type {
+	float: left;
+}
+#page-home .featured-story.small,
+#page-home .featured-story.small img {
+	width: 359px;
+	height: 225px;
+}
+#page-home .featured-small-container {
+	margin-top: 10px;
+}
+#page-home .featured-story.small h2 {
+	width: 349px;
+	height: 50px;
+	line-height: 25px;
+}
+#page-home #region-3 {
+	width: 728px;
+	margin-right: 0;
+}
+#page-home .lead-story:nth-child(even) {
+	margin-right: 0;
+}
+#page-home #region-4 {
+	display: none;
+}
+#page-home #region-4a {
+	width: 728px;
+}
+#page-home #region-5 {
+	width: 728px;
+	margin-right: 0;
+}
+#page-home .sport-list {
+	width: 48%;
+}
+#page-home .sport-list .headline {
+	height: 48px;
+	font-size: 20px;	
+	line-height: 24px;
+}
+#page-home #region-footer-ad {
+	width: 728px;
+}
+
+/** ARCHIVE PAGE **/
+#page-archive #region-2,
+#page-archive #region-2.category {
+	width: 728px;
+	margin-bottom: 0;
+}
+#page-archive .featured-story.large,
+#page-archive .featured-story.large img {
+	width: 728px;
+	height: 450px;
+}
+#page-archive .featured-text-large {
+	width: 728px;
+}
+#page-archive .featured-small-container {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-flow: row wrap;
+	flex-flow: row wrap;
+	width: 728px;
+	margin-top: 10px;
+}
+#page-archive .featured-story.small,
+#page-archive .featured-story.small img {
+	width: 359px;
+	height: 230px;
+}
+#page-archive .featured-story.small:first-of-type {
+	margin-right: 10px;
+}
+#page-archive .featured-story.small h2 {
+	width: 349px;
+	height: 60px;
+}
+#page-archive #region-2a {
+	width: 728px;
+}
+#page-archive #region-3.category {
+	width: 728px;
+}
+#page-archive .list-headline {
+	margin-left: 10px;	
+}
+#page-archive .category-content {
+	width: 728px;
+}
+#page-archive .category-list {
+	width: 236px;
+}
+#page-archive .category-list:nth-child(3n) {
+	margin-right: 0;
+}
+#page-archive .category-list img {
+	width: 236px;
+	height: 145px;
+}
+#page-archive .sidebar-content {
+	display: none;
+}
+#page-archive #region-4 {
+	display: none;
+}
+
+/** ARTICLE PAGE **/
+.HeaderContainer.article-share h2 {
+	font-size: 26px;
+}
+.HeaderContainer.article-share .next-match {
+	font-size: 20px;
+}
+#page-article #region-1 {
+	margin-bottom: 20px;
+}
+#page-article #region-2 {
+	width: 728px;
+}
+#page-article article .featured-video,
+#page-article article .featured-image img {
+	width: 728px;
+	height: 450px;
+}
+#page-article #region-3 {
+	display: none;
+}
+#page-article #region-4 {
+	width: 708px;
+}
+#page-article .related-images img {
+	width: 230px;
+	height: 140px;
+}
+#page-article #region-5 {
+	width: 728px;
+}
+
+/** BASIC PAGE **/
+#page-basic #region-3 {
+	display: none;
+}
+
+/** WIDGETS **/
+.embed-image-full img {
+	width: 728px;
+}
+	
+/** MEDIA QUERIES **/
+.tabletCheck {
+	display: block;
+}
+
+.wideCheck, .desktopCheck, .mobileCheck {
+	display: none;
+}
+
+}

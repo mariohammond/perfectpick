@@ -1,0 +1,299 @@
+/* CSS Style Sheet - Home Page */
+
+/* Imported Fonts - Start */
+@font-face {
+font-family: OpenSans;
+src: url(fonts/OpenSans-Regular.ttf);
+}
+
+@font-face {
+font-family: OpenSansBold;
+src: url(fonts/OpenSans-Bold.ttf);
+}
+
+@font-face {
+font-family: OpenSansItalic;
+src: url(fonts/OpenSans-Italic.ttf);
+}
+/* Imported Fonts - End */
+
+body {
+margin:0;
+}
+
+#SplashHeaderContainer {
+background-color:#000080;
+height:55px;
+margin:0 auto;
+border-bottom:5px solid #ffffff;
+}
+
+#HeaderContainer {
+background-color:#000080;
+height:55px;
+margin:0 auto;
+border-bottom:5px solid #ff0000;
+}
+
+#HeaderLogo {
+float:left;
+}
+
+#HeaderLogo img.logo {
+height:40px;
+padding-top:9px;
+padding-left:10px;
+}
+
+#HeaderNav li.NavOptions {
+float:right;
+font-family:OpenSans, Arial;
+font-size:20px;
+text-transform:uppercase;
+padding-top:14px;
+padding-right:15px;
+list-style-type:none;
+}
+
+#HeaderNav a.link {
+color:#ffffff;
+text-decoration:none;
+}
+
+#HeaderNav a.loginLink {
+color:#ffffff;
+text-decoration:none;
+background-color:#ff0000;
+padding-top:8px;
+padding-bottom:12px;
+padding-left:10px;
+padding-right:10px;
+cursor:pointer;
+}
+
+#TaglineContainer {
+margin:0 auto;
+text-align:center;
+padding-top:10px;
+}
+
+#TaglineContainer label.TaglineTitle {
+font-family:Freshman, Arial;
+font-size:45px;
+color:#ffffff;
+text-shadow:1px .5px 0 #000000;
+text-transform:uppercase;
+white-space:nowrap;
+}
+
+#TaglineContainer label.TaglineContent {
+font-family:OpenSans, Arial;
+font-size:24px;
+color:#000000;
+background-color:#ffffff;
+padding:10px;
+border-radius:10px;
+white-space:nowrap;
+}
+
+#FeaturesContainer {
+width:80%;
+margin:0 auto;
+text-align:center;
+}
+
+#FeaturesContainer img {
+height:210px;
+border-radius:15px;
+}
+
+#GetStartedContainer {
+width:100%;
+text-align:center;
+padding-top:20px;
+}
+
+#GetStartedContainer img {
+cursor:pointer;
+}
+
+#GetStartedContainer .joiner {
+position:relative;
+top:-30px;
+font-family:OpenSans, Arial;
+color:#ffffff;
+font-size:20px;
+}
+
+.ui-widget-overlay {
+background-color:#ffffff;
+opacity:0.5;
+filter:Alpha(Opacity=30);
+}
+
+.ui-widget-header {
+border:1px solid #aaaaaa;
+color:#ffffff;
+text-shadow:1px .5px 0 #000000;
+font-weight:bold;
+background:#ff0000;
+}
+
+#LoginMessage {
+width:50%;
+margin:30px auto;
+text-align:center;
+background-color:#ff0000;
+}
+
+#LoginMessage label {
+font-family:OpenSans, Arial;
+font-size:20px;
+color:#ffffff;
+}
+
+#RegisterContainer input[type="button"],
+#LoginContainer input[type="button"] {
+margin-top:20px;
+height:40px;
+width:150px;
+font-size:20px;
+background-color:#ff0000;
+color:#ffffff;
+text-shadow:1px .5px 0 #000000;
+}
+
+#LoginContainer input[type="button"] {
+margin-bottom:10px;
+}
+
+#RegisterContainer img.help {
+height:13px;
+}
+
+#pup {
+  position:absolute;
+  z-index:200;
+  padding: 3px;
+  margin-left: 10px;
+  margin-top: 5px;
+  width: 250px;
+  border: 1px solid black;
+  background-color: #000080;
+  color: #ffffff;
+  font-size: 16px;
+}
+
+label#forgotPassword {
+font-size:14px;
+cursor:pointer;
+}
+
+#WelcomeContainer {
+width:70%;
+background-color:#ff0000;
+margin:30px auto;
+border:5px solid #ff0000;
+border-radius:5px;
+text-align:center;
+}
+
+#WelcomeContainer h1 {
+font-family:OpenSans, Arial;
+color:#ffffff;
+text-shadow:1px .5px 0 #000000;
+font-size:34px;
+font-weight:normal;
+letter-spacing:2px;
+}
+
+#ProfileContainer {
+width:70%;
+margin:0 auto;
+border:5px solid #000080;
+border-radius:5px;
+margin-top:10px;
+background-color:#000080;
+color:#ffffff;
+text-shadow:1px .5px 0 #000000;
+padding-top:10px;
+padding-bottom:10px;
+}
+
+#ProfileContainer label {
+font-family:OpenSans, Arial;
+font-size:30px;
+font-weight:normal;
+letter-spacing:2px;
+}
+
+#ProfileContainer label.emailList {
+font-size:17px;
+}
+
+#ProfileContainer input[type="text"] {
+height:23px;
+width:150px;
+margin-top:7px;
+}
+
+#ProfileContainer select {
+height:30px;
+width:154px;
+margin-top:5px;
+}
+
+#ProfileContainer input[type="file"] {
+margin-top:9px;
+font-family:OpenSans, Arial;
+color:#ffffff;
+}
+
+#ProfileContainer input[type="button"] {
+margin-top: 20px;
+height: 40px;
+width: 180px;
+font-size: 20px;
+background-color: #ff0000;
+color: #ffffff;
+text-shadow: 1px .5px 0 #000000;
+}
+
+#PasswordContainer {
+margin:40px;
+}
+
+#PasswordContainer label {
+font-family:OpenSans, Arial;
+font-size:20px;
+}
+
+#PasswordContainer label#successMessage {
+font-family:OpenSans, Arial;
+font-size:20px;
+color:#ffffff;
+background-color:#000080;
+padding:10px;
+}
+
+#PasswordContainer label#errorMessage {
+font-family:OpenSans, Arial;
+font-size:20px;
+color:#ffffff;
+background-color:#ff0000;
+padding:5px;
+}
+
+#PasswordContainer input[type="email"] {
+height:25px;
+}
+
+#PasswordContainer input[type="button"] {
+margin-top:20px;
+height:40px;
+width:175px;
+font-size:20px;
+background-color:#ff0000;
+color:#ffffff;
+text-shadow:1px .5px 0 #000000;
+}

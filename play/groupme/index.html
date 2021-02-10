@@ -1,0 +1,81 @@
+<html>
+<head>
+</head>
+<body>
+    <h1>Adding the @all feature to Groupme</h1>
+    <hr>
+
+    <h2>1. Getting Started</h2>
+    <p>You need the following accounts (free):</p>
+    <ul>
+        <li>Github</li>
+        <li>Heroku</li>
+    </ul>
+
+    <h2>2. Create a GroupMe application</h2>
+    <ul>
+        <li>Go to this site: <a href="https://dev.groupme.com/session/new" target="_blank">https://dev.groupme.com/session/new</a></li>
+        <li>Log in with your GroupMe account</li>
+        <li>Click the 'Create Application' button</li>
+        <br/>
+        <img src="img/createapp.png" />
+        <p>All the fields are required but you can put anything for the Name and Callback URL.</p>
+        <li>Once you create the application you will get an access token. You will need that later.</li>
+        <br>
+        <img src="img/accesstoken.png"/>
+    </ul>
+
+    <h2>3. Create a GroupMe bot</h2>
+    <ul>
+        <li>Go to this site: <a href="https://dev.groupme.com/bots" target="_blank">https://dev.groupme.com/bots</a></li>
+        <li>Click the 'Create Bot' button</li>
+        <br/>
+        <img src="img/createbot.png"/>
+        <br/><br/>
+        <li>Choose the group and give it a name.</li>
+        <li>Add a Callback URL (required but not important)</li>
+        <li>Add a Avatar URL (link of an image to use in the group)</li>
+        <li>Once you create the bot you will get a Bot ID and a Group ID. You will need those later.</li>
+        <br>
+        <img src="img/viewbot.png"/>
+    </ul>
+
+    <h2>4. Create a Github Repo</h2>
+    <ul>
+        <li>Clone or download the source code from this repo: <a href="https://github.com/mariohammond/hummingbird" target="_blank">https://github.com/mariohammond/hummingbird</a></li>
+        <li>Create your own repo and add all the files.</li>
+    </ul>
+
+    <h2>5. Create a Heroku site</h2>
+    <ul>
+        <li>Start a free account and create a Heroku app (website) here: <a href="https://www.heroku.com" target="_blank">https://www.heroku.com</a></li>
+        <br/>
+        <img src="img/heroku.png"/>
+    </ul>
+
+    <h2>6. Add Config Variables</h2>
+    <ul>
+        <li>Once the Heroku app is created, go to the 'Settings' tab.</li>
+        <li>In Settings, click on Show Config Vars</li>
+        <li>Add the following variables:</li>
+        <ul>
+            <li>HUBOT_GROUPME_BOT_ID -> [Your Bot ID]</li>
+            <li>HUBOT_GROUPME_ROOM_ID -> [Your Group ID]</li>
+            <li>HUBOT_GROUPME_TOKEN -> [Your Access Token]</li>
+        </ul>
+        <br>
+        <img src="img/settings.png"/>
+    </ul>
+
+    <h2>7. Deploy Your Heroku App</h2>
+    <ul>
+        <li>Go to the 'Deploy' tab.</li>
+        <li>In Deploy, choose the Deployment method as GitHub and connect your repo.</li>
+        <br>
+        <img src="img/deploy.png"/>
+        <br/><br/>
+        <li>Go down to the Manual deploy section and click 'Deploy Branch'</li>
+    </ul>
+    <h2>Done!</h2>
+</body>
+</html>

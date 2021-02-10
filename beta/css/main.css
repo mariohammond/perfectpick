@@ -1,0 +1,915 @@
+/* CSS Style Sheet - Main Pages */
+
+/* Imported Fonts - Start */
+@font-face {
+font-family: OpenSans;
+src: url(fonts/OpenSans-Regular.ttf);
+}
+
+@font-face {
+font-family: OpenSansBold;
+src: url(fonts/OpenSans-Bold.ttf);
+}
+
+@font-face {
+font-family: OpenSansItalic;
+src: url(fonts/OpenSans-Italic.ttf);
+}
+/* Imported Fonts - End */
+
+body {
+margin:0;
+white-space:nowrap;
+/*background-color:#d8d8d8;*/
+background: url(../images/bgc-football.jpg) no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+/*** Header Page: Start ***/
+#HeaderContainer {
+background-color:#000080;
+height:55px;
+margin:0 auto;
+border-bottom:5px solid #ff0000;
+}
+
+#HeaderLogo {
+float:left;
+}
+
+#HeaderLogo img.logo {
+height:40px;
+padding-top:9px;
+padding-left:10px;
+}
+
+#HeaderNav li.NavOptions {
+float:right;
+font-family:OpenSans, Arial;
+font-size:18px;
+text-transform:uppercase;
+padding-top:16px;
+padding-right:8px;
+list-style-type:none;
+}
+
+#HeaderNav a.link {
+padding:4px;
+color:#ffffff;
+text-decoration:none;
+}
+
+#HeaderNav a:hover {
+color:#fff;
+background-color:#ff0000;
+}
+/*** Header Page: End ***/
+
+/*** Home Page: Start ***/
+#UpcomingContainer {
+width:80%;
+height:50px;
+margin:20px auto;
+padding-top:10px;
+background-color:#ff0000;
+border:3px solid #000080;
+text-align:center;
+}
+
+#UpcomingContainer div {
+position:absolute;
+left:0;
+width:100%;
+display:none;
+}
+
+#UpcomingContainer div:first-child {
+display:block;
+}
+
+#UpcomingContainer label.upcomingContent {
+font-family:OpenSans, Arial;
+font-size:30px;
+color:#ffffff;
+text-shadow:1px .5px 0 #000000;
+}
+
+#HomeContainer {
+display:-webkit-box;
+display:flex;
+width:80%;
+margin:0 auto;
+}
+
+#LeaderboardContainer {
+width:25%;
+background-color:#000080;
+white-space:nowrap;
+overflow:hidden;
+text-overflow:ellipsis;
+color:#ffffff;
+padding-bottom:10px;
+}
+
+#LeaderboardContainer div#tab1,
+#LeaderboardContainer div#tab2,
+#LeaderboardContainer div#tab3 {
+white-space:nowrap;
+overflow:hidden;
+text-overflow:ellipsis;
+color:#ffffff;
+}
+
+div#tab1 a, div#tab2 a, div#tab3 a {
+text-decoration:none;
+}
+
+.LeaderboardTabs {
+padding:3px 0 0 0;
+text-align:center;
+}
+
+.LeaderboardTabs li {
+list-style:none;
+display:inline;
+}
+
+.LeaderboardTabs a {
+display:inline-block;
+width:31%;
+font-family:OpenSans, Arial;
+font-size:15px;
+text-decoration:none;
+padding-top:5px;
+padding-bottom:5px;
+background:#ffffff;
+color:#000000;
+}
+
+.LeaderboardTabs a.active {
+background:#ff0000;
+color:#ffffff;
+}
+
+#LeaderboardTitle {
+width:90%;
+margin:10px auto 0px;
+text-align:center;
+}
+
+#LeaderboardTitle label.tabTitle {
+font-family:OpenSans, Arial;
+font-size:100%;
+color:#ffffff;
+}
+
+#LeaderboardContainer label.tabContent {
+font-family:OpenSans, Arial;
+font-size:15px;
+color:#ffffff;
+margin-left:10px;
+cursor:pointer;
+}
+
+#SocialContainer {
+width:55%;
+height:500px;
+text-align:-webkit-center;
+text-align:-moz-center;
+}
+
+#VideoContainer {
+width:90%;
+height:400px;
+margin:0 auto;
+}
+
+#ConnectContainer {
+width:89%;
+height:100px;
+background-color:#ff0000;
+margin:20px auto 0;
+border:3px solid #000080;
+text-align:center;
+}
+
+#ConnectContainer label.connectTitle {
+font-family:OpenSans, Arial;
+font-size:25px;
+color:#ffffff;
+text-shadow:1px .5px 0 #000000;
+}
+
+#ConnectContainer img {
+height:50px;
+margin:10px auto 0px;
+}
+
+#LatestContainer {
+width:20%;
+background-color:#000080;
+}
+
+#LatestTitle {
+width:90%;
+margin:10px auto 0px;
+text-align:center;
+}
+
+#LatestTitle label.latestTitle {
+font-family:OpenSans, Arial;
+font-size:100%;
+color:#ffffff;
+}
+
+#LatestContent {
+margin-top:10px;
+white-space:nowrap;
+overflow:hidden;
+text-overflow:ellipsis;
+color:#ffffff;
+}
+
+#LatestContent label.latestContent {
+font-family:OpenSans, Arial;
+font-size:15px;
+color:#ffffff;
+margin-left:5px;
+margin-right:5px;
+}
+/*** Home Page: End ***/
+
+/*** Dashboard Page: Start ***/
+#FullDashboard {
+display:-webkit-box;
+display:flex;
+width:75%;
+margin:0 auto;
+}
+
+#FullDashboard a {
+text-decoration:none;
+color:inherit;
+}
+
+#FullDashboard a:hover {
+color:#000080;
+cursor:pointer;
+}
+
+#ProfileLeftContainer {
+width:60%;
+margin-top:30px;
+}
+
+#ProfileLeftContainer a:hover {
+color:#ff0000;
+}
+
+#NameContainer {
+background-color:#ff0000;
+border-top:5px solid #000080;
+padding:10px;
+}
+
+#NameContainer label.nameLabel {
+font-family:OpenSans, Arial;
+font-size:30px;
+text-transform:uppercase;
+color:#ffffff;
+text-shadow:1px .5px 0 #000000;
+}
+
+#NameContainer a {
+position:relative;
+top:-4px;
+left:10px;
+padding:5px;
+font-family:OpenSans, Arial;
+font-size:14px;
+color:#000080;
+background-color:#ffffff;
+cursor:pointer;
+text-decoration:none;
+}
+
+#InfoContainer {
+display:-webkit-box;
+display:flex;
+width:100%;
+background-color:#000080;
+border-top:5px solid #000080;
+border-bottom:5px solid #000080;
+}
+
+#ProfileImage img {
+max-width:150px;
+max-height:125px;
+padding:10px 0px 0px 10px;
+}
+
+#ProfileInfo {
+margin:25px 20px;
+}
+
+#ProfileInfo label.infoLabel {
+font-family:OpenSans, Arial;
+font-size:130%;
+font-weight:bold;
+color:#ffffff;
+text-shadow:1px .5px 0 #000000;
+}
+
+#ProgressContainer {
+display:-webkit-box;
+display:flex;
+width:100%;
+margin-top:30px;
+}
+
+#HistoryContainer {
+width:45%;
+}
+
+#AchievementContainer {
+width:45%;
+padding-left:10%;
+}
+
+#HistoryTitle, #AchievementTitle {
+background-color:#ff0000;
+border-top:3px solid #000080;
+padding:5px 10px;
+}
+
+#HistoryTitle label.historyTitle,
+#AchievementTitle label.achievementTitle {
+font-family:OpenSans, Arial;
+font-size:25px;
+color:#ffffff;
+text-shadow:1px .5px 0 #000000;
+}
+
+#HistoryInfo, #AchievementInfo {
+height:350px;
+margin-bottom:10px;
+padding:10px;
+border:3px solid #000080;
+background-color:#000080;
+color:#ffffff;
+text-shadow:1px .5px 0 #000000;
+white-space:nowrap;
+overflow-x:hidden;
+overflow-y:scroll;
+text-overflow:ellipsis;
+}
+
+#HistoryInfo label.historyInfo,
+#AchievementInfo label.achievementInfo {
+font-family:OpenSans, Arial;
+font-size:18px;
+}
+
+#ProfileRightContainer {
+width:40%;
+margin-top:30px;
+}
+
+#MatchTitle, #StatsTitle, #FavTitle {
+width:70%;
+margin:0 auto;
+background-color:#000080;
+border-top:3px solid #ff0000;
+padding:5px 10px;
+}
+
+#StatsTitle {
+margin-top:40px;
+}
+
+#MatchTitle label.matchTitle,
+#StatsTitle label.statsTitle,
+#FavTitle label.favTitle {
+font-family:OpenSans, Arial;
+font-size:25px;
+color:#ffffff;
+text-shadow:1px .5px 0 #000000;
+}
+
+#MatchInfo, #StatsInfo, #FavInfo , #NoFavInfo{
+width:70%;
+margin:10px auto;
+padding:10px;
+background-color:#ff0000;
+color:#ffffff;
+white-space:nowrap;
+overflow:hidden;
+text-overflow:ellipsis;
+}
+
+#FavInfo {
+width:75%;
+background:none;
+margin-bottom:20px;
+padding:0;
+text-align:center;
+}
+
+#MatchInfo label.matchInfo,
+#NoFavInfo label.infoLabel {
+font-family:OpenSans, Arial;
+font-size:18px;
+font-weight:bold;
+text-shadow:1px .5px 0 #000000;
+cursor:pointer;
+}
+
+#StatsInfo label.infoLabel {
+font-family:OpenSans, Arial;
+font-size:18px;
+color:#ffffff;
+text-shadow:1px .5px 0 #000000;
+}
+
+#FavInfo img {
+height:72px;
+}
+/*** Dashboard Page: End ***/
+
+/*** Edit Profile Page: Start ***/
+#FullEditProfile {
+width:50%;
+margin:0 auto;
+}
+
+#EditProfileMessage {
+width:50%;
+margin:20px auto;
+text-align:center;
+}
+
+#EditProfileMessage label.editMessage {
+font-family:OpenSans, Arial;
+font-size:20px;
+color:#ffffff;
+background-color:#ff0000;
+padding:5px;
+}
+
+#EditTitleContainer {
+width:98.5%;
+background-color:#ff0000;
+margin-bottom:30px;
+border-top:3px solid #000080;
+}
+
+#EditTitleContainer label.mainTitle {
+font-family:OpenSans, Arial;
+font-size:30px;
+color:#ffffff;
+text-shadow:1px .5px 0 #000000;
+padding:10px;
+}
+
+#EditContentContainer {
+width:100%;
+margin-top:10px;
+}
+
+#EditContentContainer table {
+margin-top:10px;
+}
+
+#EditContentContainer label.editTitle {
+font-family:OpenSans, Arial;
+font-size:20px;
+}
+
+#EditContentContainer label.tableLabel {
+font-family:OpenSans, Arial;
+font-size:16px;
+}
+
+#EditContentContainer input[type="button"],
+#EditContentContainer input[type="submit"] {
+margin-top:10px;
+height:40px;
+width:145px;
+font-size:16px;
+background-color:#ff0000;
+color:#ffffff;
+text-shadow:1px .5px 0 #000000;
+}
+
+#ContentContainerA,
+#ContentContainerB, 
+#ContentContainerC {
+display:-webkit-box;
+display:flex;
+width:100%;
+}
+
+#ChangeNameContainer,
+#ChangeImageContainer,
+#EmailAccountContainer,
+#SocialAccountContainer {
+width:45%;
+margin:0 10px 10px 0;
+padding:10px;
+border:3px solid #000080;
+margin-bottom:10px;
+background-color:#ffffff;
+}
+
+#FavTeamsContainer {
+width:94.5%;
+padding:10px;
+border:3px solid #000080;
+background-color:#ffffff;
+}
+
+#ChangeNameContainer input[type="text"],
+#EmailAccountContainer input[type="email"], 
+#EmailAccountContainer input[type="password"] {
+width:96%;
+}
+
+#ChangeImageContainer input[type="file"] {
+margin-top:10px;
+}
+
+#ChangeImageContainer input[type="submit"] {
+margin-top:8px;
+}
+
+#EmailAccountContainer img {
+height:14px;
+cursor:pointer;
+}
+
+#pup {
+position:absolute;
+z-index:200;
+padding: 3px;
+margin-left: 10px;
+margin-top: 5px;
+width: 250px;
+border: 1px solid black;
+background-color: #000080;
+color: #ffffff;
+font-size: 16px;
+}
+
+#SocialAccountContainer div {
+display:-webkit-box;
+display:flex;
+}
+
+#SocialAccountContainer img {
+height:90px;
+margin-top:25px;
+}
+
+#FavTeamsContainer input[type="checkbox"] {
+margin-top:15px;
+}
+
+#FavTeamsContainer table select {
+margin-right:40px;
+}
+
+#FavTeamsContainer label.removeLabel {
+font-family:OpenSans, Arial;
+font-size:12px;
+background-color:#ff0000;
+padding:3px;
+color:#ffffff;
+cursor:pointer;
+}
+/*** Edit Profile Page: End ***/
+
+/*** MatchList Page: Start ***/
+#MatchListContainer {
+width:95%;
+margin:30px auto;
+}
+
+#MatchListContainer a {
+text-decoration:none;
+color:inherit;
+}
+
+#MatchListContainer a:hover {
+color:#ff0000;
+}
+
+#MatchListTitle {
+background-color:#ff0000;
+border-top:3px solid #000080;
+padding:5px 10px;
+}
+
+#MatchListTitle label.matchListTitle {
+font-family:OpenSans, Arial;
+font-size:25px;
+color:#ffffff;
+text-shadow:1px .5px 0 #000000;
+}
+
+table.dataTable thead th, table.dataTable thead td {
+border-bottom: 2px solid #ffffff;
+}
+
+.dataTable, .dataTables_length, 
+.dataTables_filter, .dataTables_info, .dataTables_paginate {
+margin-top:30px;
+padding:0 !important;
+}
+
+.dataTables_length, .dataTables_filter {
+margin-bottom:30px;
+}
+
+.dataTables_paginate {
+margin-top:20px;
+}
+
+#MatchList {
+background-color:#ffffff;
+border:3px solid #000080;
+}
+
+#MatchList img {
+height:17px;
+}
+
+#MatchList img.remove {
+height:17px;
+cursor:pointer;
+}
+
+#MatchListContainer label, thead,
+.dataTables_info, .paginate_button {
+font-family:OpenSans, Arial;
+text-transform:uppercase;
+}
+
+#MatchListContainer label, .dataTables_info, 
+.paginate_button, .dataTables_paginate a {
+color:#ffffff !important;
+text-shadow:1px .5px 0 #000000;
+}
+
+table.dataTable tbody tr.odd {
+color:#ffffff;
+background-color:#000080;
+}
+
+table.dataTable tbody td {
+font-family:OpenSans, Arial;
+text-align:center;
+}
+
+td.title {
+text-align:left !important;
+}
+
+#MatchListContainer input[type='button'],
+#SearchMatchContainer input[type='button'],
+#SearchMatchContainer input[type='submit'] {
+margin-top:10px;
+height:40px;
+width:145px;
+font-size:16px;
+background-color:#ff0000;
+color:#ffffff;
+text-shadow:1px .5px 0 #000000;
+cursor:pointer;
+}
+
+.ui-widget-overlay {
+background-color:#ffffff;
+opacity:0.5;
+filter:Alpha(Opacity=30);
+}
+
+.ui-widget-header {
+border:1px solid #aaaaaa;
+color:#ffffff;
+text-shadow:1px .5px 0 #000000;
+font-weight:bold;
+background:#ff0000;
+}
+
+#SearchMatchContainer  select {
+width:215px;
+}
+/*** MatchList Page: End ***/
+
+/*** Match Page: Start ***/
+#FullMatch {
+width:70%;
+margin:30px auto;
+}
+
+#FullMatch a {
+text-decoration:none;
+color:inherit;
+}
+
+#FullMatch a:hover {
+color:#ff0000;
+}
+
+#MatchMessage {
+width:50%;
+margin:20px auto;
+text-align:center;
+}
+
+#MatchMessage label {
+font-family:OpenSans, Arial;
+font-size:20px;
+color:#ffffff;
+background-color:#ff0000;
+padding:5px;
+}
+
+#MatchMenuContainer {
+position:fixed;
+top:90px;
+left:10px;
+}
+
+#JoinMatchContainer, 
+#ViewQuestionsContainer,
+#MatchHomeContainer {
+position:relative;
+left:-60px;
+height:35px;
+margin-bottom:5px;
+padding:15px 5px 0px 55px;
+border-radius:5px;
+background-color:#ffffff;
+border:2px solid #000080;
+transition:left .5s;
+-webkit-transition:-left .5s;
+cursor:pointer;
+}
+
+#JoinMatchContainer label, 
+#ViewQuestionsContainer label,
+#MatchHomeContainer label {
+font-family:OpenSans, Arial;
+font-size:14px;
+margin-top:10px;
+cursor:pointer;
+}
+
+#JoinMatchContainer:hover,
+#ViewQuestionsContainer:hover ,
+#MatchHomeContainer:hover {
+position:relative;
+left:-20px;
+cursor:pointer;
+}
+
+#JoinMatchContainer label:hover, 
+#ViewQuestionsContainer label:hover,
+#MatchHomeContainer label:hover {
+color:#ff0000;
+cursor:pointer;
+}
+
+#MatchTitleContainer {
+background-color:#ff0000;
+margin-bottom:30px;
+border-top:3px solid #000080;
+}
+
+#MatchTitleContainer label.mainTitle {
+font-family:OpenSans, Arial;
+font-size:30px;
+color:#ffffff;
+text-shadow:1px .5px 0 #000000;
+padding:10px;
+}
+
+#MatchTitleContainer span {
+position:relative;
+top:-4px;
+font-family:OpenSans, Arial;
+padding:3px;
+}
+
+#StandingsContainer table {
+width:100%;
+}
+
+#StandingsContainer th.title {
+text-align:left;
+padding:5px;
+background-color:#000080;
+font-weight:normal;
+font-size:20px;
+}
+
+#StandingsContainer th.title label {
+margin-left:5px;
+}
+
+#StandingsContainer table thead {
+background-color:#ff0000;
+color:#ffffff;
+text-shadow:1px .5px 0 #000000;
+}
+
+#StandingsContainer table tbody {
+background-color:#ffffff;
+border:1px solid #000000;
+font-family:OpenSans, Arial;
+font-size:16px;
+text-align:center;
+}
+
+#StandingsContainer label {
+cursor:pointer;
+}
+/*** Match Page: End ***/
+
+/*** MatchPicks Page: Start ***/
+#FullMatchPicks {
+width:60%;
+margin:30px auto;
+}
+
+#PicksTitleContainer {
+background-color:#ff0000;
+margin-bottom:30px;
+border-top:3px solid #000080;
+}
+
+#PicksTitleContainer label.mainTitle {
+font-family:OpenSans, Arial;
+font-size:30px;
+color:#ffffff;
+text-shadow:1px .5px 0 #000000;
+padding:10px;
+}
+
+#PicksTitleContainer span {
+position: relative;
+top: -4px;
+font-family: OpenSans, Arial;
+padding: 3px;
+}
+
+#PicksContainer {
+background-color:#000080;
+padding:10px;
+border-top:3px solid #ff0000;
+}
+
+#PicksContainer label {
+font-family:OpenSans, Arial;
+font-size:20px;
+color:#ffffff;
+text-shadow:1px .5px 0 #000000;
+}
+
+#PicksContainer label.value {
+margin-left:10px;
+background-color:#ff0000;
+font-size:14px;
+padding:2px 4px;
+border-radius:3px;
+}
+
+#PicksContainer select,
+#PicksContainer input[type="text"] {
+margin-top:10px;
+margin-bottom:10px;
+width:292px;
+height:30px;
+font-family:OpenSans, Arial;
+}
+
+#PicksContainer input[type="submit"],
+#PicksContainer input[type="button"] {
+margin-top:10px;
+height:40px;
+width:145px;
+font-size:16px;
+background-color:#ff0000;
+color:#ffffff;
+text-shadow:1px .5px 0 #000000;
+cursor:pointer;
+}
+
+#PicksContainer #cancel {
+background-color:#999999;
+}
+/*** MatchPicks Page: End ***/

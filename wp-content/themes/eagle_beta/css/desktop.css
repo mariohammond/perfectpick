@@ -1,0 +1,33 @@
+/* Eagle Theme - CSS Styles (Desktop) */
+
+@media all and (max-width: 1200px) {
+	.SidebarLeftContainer {
+		display: none;
+	}
+	
+	.StoryContainer {
+		margin-left: 10px;
+	}
+	
+	.lead-story p {
+		font-size: 20px;
+	}
+	
+	.list-content p {
+		font-size: 16px;
+	}
+	
+	.twitter-widget {
+		display: none;
+	}
+	
+	/* Landing Page Styles: Start */
+	.LandingPageWrapper .StoryContainer {
+		margin-left: 10px;
+	}
+	
+	.category-list-text h2 {
+		font-size: 23px;
+	}
+	/* Landing Page Styles: End */
+}

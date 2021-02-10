@@ -1,0 +1,1555 @@
+/********************************************************************************************************************/
+/******************************************** MAIN PLAY STYLES ******************************************************/
+/********************************************************************************************************************/
+
+html { display: block; }
+
+/** GLOBAL STYLES **/
+html, body {
+	margin: 0 !important;
+}
+a:link, a:visited, a:active {
+    text-decoration: none;
+	color: inherit;
+}
+p, h1, h2, h3, td, th, label, caption, figcaption {
+	font-family: 'Play', sans-serif;
+	margin: 0;
+}
+h1 {
+	font-size: 26px;
+	font-weight: 700;
+}
+h2 {
+	font-size: 22px;
+	font-weight: 700;
+}
+p {
+	font-size: 16px;
+	font-weight: 400;
+}
+li {
+	list-style-type: none;
+}
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+.clear {
+	clear: both;
+}
+.flex {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-flow: row wrap;
+	flex-flow: row wrap;
+}
+.content {
+	position: relative;
+	top: 60px;
+	width: 1038px;
+	margin: 0 auto;
+	overflow: auto;
+}
+
+/** AD **/
+.leaderboard {
+	width: 728px;
+	height: 90px;
+	margin: 0 auto;
+}
+.footer-ad {
+	width: 100%;
+	margin-bottom: 10px;
+	padding: 2px 0;
+	background-color: #e4e4e4;
+}
+
+/** HEADER **/
+.HeaderContainer {
+	display: -webkit-flex;
+   	display: flex;
+	position: fixed;
+	top: 0px;
+	width: 100%;
+	height: 45px;
+	background-color: #fc4349;
+	border-bottom: 5px solid #2c3e50;
+	z-index: 100020;
+}
+.header-content {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+.header-content li {
+	list-style-type: none;
+}
+.HeaderContainer .fa {
+	width: 25px;
+	margin: 3px 10px 0 0;
+	padding: 7px;
+	font-size: 25px;
+	border-radius: 25px;
+	background-color: #fff;
+	color: #fc4349;
+	text-align: center;
+}
+.HeaderContainer .fa-google-plus {
+	margin-right: 0;
+}
+.HeaderContainer .fa-facebook:hover {
+	color: #fff;
+	background-color: #3b5998;
+}
+.HeaderContainer .fa-twitter:hover {
+	color: #fff;
+	background-color: #4099ff;
+}
+.HeaderContainer .fa-google-plus:hover {
+	color: #fff;
+	background-color: #dd4b39;
+}
+.loginMessage {
+	position: relative;
+	top: 70px;
+	margin-bottom: 30px;
+	text-align: center;
+}
+.errorMessage {
+	color: #fff;
+	font-size: 20px;
+	background-color: #fc4349;
+	padding: 5px;
+}
+.MenuContainer {
+	width: 198px;
+	border-right: 2px solid #2c3e50;
+	background-color: #2c3e50;
+	position: fixed;
+	left: -200px;
+	-webkit-transition: left 1s;
+    transition: left 1s;	
+	z-index: 100030;
+	top: 0px;
+	overflow: hidden;
+}
+.menu-button {
+	display: inline;
+	width: 45px;
+	height: 45px;
+	padding: 0 10px 0;
+	border-right: 5px solid #2c3e50;
+	cursor: pointer;
+	-webkit-transition: background-color 1s;
+    transition: background-color 1s;
+}
+.menu-button img {
+	height: 45px;
+}
+.menu-list {
+	margin: 0;
+	padding: 0;
+	font-family: "Play", sans-serif;
+	font-size: 21px;
+	color: #fff;
+}
+.menu-title {
+	height: 40px;
+	border-bottom: 5px solid #fff;
+	padding: 10px 0 0 5px;
+}
+.menu-close {
+	height: 20px;
+	float: right;
+	margin: 4px 7px 0 0;
+	cursor: pointer;
+}
+.menu-option {
+	padding: 5px;
+	border-bottom: 1px solid #000;
+	line-height: 30px;
+	cursor: pointer;
+}
+.menu-option.news {
+	background-color: #fc4349;
+	color: #fff;
+}
+.menu-option.play {
+	background-color: #fff;
+	color: #2c3e50;
+}
+.menu-option:hover {
+	background-color: #fff;
+	color: #2c3e50;
+}
+.menu-chevron img {
+	height: 24px;
+ 	margin: 4px 10px 0 0;
+}
+.ad-block-2 {
+	margin-top: 10px;
+	text-align: center;
+}
+.banner-image {
+	margin: 0 10px;
+}
+.banner-image img {
+	height: 45px;
+}
+.social-buttons {
+	height: 45px;
+	padding: 0 10px;
+	border-left: 5px solid #2c3e50;
+}
+.social-buttons img {
+	height: 45px;
+	margin-top: 3px;
+}
+.sign-in-button {
+	padding: 0 10px;
+	border-left: 5px solid #2c3e50;
+}
+.sign-in-button:hover {
+	background-color: #fff;
+}
+.sign-in-button h1 {
+	margin: 0;
+	font-size: 25px;
+	font-weight: 400;
+	line-height: 47px;
+	color: #fff;
+}
+.sign-in-button h1:hover {
+	color: #fc4349;
+}
+.cover-container {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	z-index: 100025;
+	background-color: transparent;
+	display: none;
+}
+
+/** FOOTER **/
+.FooterContainer {
+	position: relative;
+	top: 70px;
+	height: 45px;
+	margin: 10px 0 0 0;
+	background-color: #fc4349;
+	z-index: 100022;
+}
+.FooterContainer a  {
+	margin-right: 10px;
+	color: #fff;
+}
+.FooterContainer .banner-text {
+	position: relative;
+	top: 15px;
+}
+.FooterContainer p {
+	line-height: 14px;	
+}
+.FooterContainer .copyright {
+	font-family: sans-serif;
+	font-size: 15px;
+	line-height: 25px;	
+}
+.FooterContainer a:hover  {
+	color: #2c3e50;
+}
+
+/** HOME PAGE **/
+#page-home.content {
+	top: 50px;
+	width: 100%;
+}
+#page-home .FooterContainer {
+	top: 40px;
+}
+#page-home #region-1 {
+	width: 100%;
+	background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(44, 62, 80, 0.3)), url(../images/bgc-football.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	z-index: 1;
+	text-align: center;
+	padding: 15px 0 5px;
+}
+#page-home #region-1 img {
+	max-width: 369px;
+	margin: 10px;
+	padding: 2px 5px;
+	border-radius: 10px;
+	background-color: #2c3e50;
+}
+#page-home #region-1 h1 {
+	font-size: 30px;
+	color: #fff;
+	text-shadow: 1px 0.5px 0 #000;
+}
+#page-home .action-button {
+	width: 260px;
+	margin: 20px auto;
+	padding: 5px 0;
+	font-family: 'Play', sans-serif;
+	font-size: 25px;
+    color: #fff;
+	background-color: #00a550;
+}
+#page-home #region-2 {
+	width: 100%;
+	background-color: rgba(44, 62, 80, 0.3);
+	z-index: 2;
+	text-align: center;
+	padding: 5px 0 20px;
+}
+#page-home #region-2 h1,
+#page-home #region-3 h1 {
+	margin-bottom: 15px;
+    font-size: 35px;
+}
+#page-home #region-2 img {
+	max-width: 540px;
+	border-radius: 10px;	
+}
+#page-home #region-3 {
+	margin-bottom: 20px;
+	width: 100%;
+	background-color: #00a550;
+	text-align: center;
+	padding: 15px 0 30px;
+}
+#page-home #region-3 h1 {
+	color: #fff;
+}
+#page-home #region-3 .social-icons img {
+	margin-right: 10px;
+}
+#page-home #region-3 .action-button {
+	background-color: #2c3e50;
+}
+
+/** DASHBOARD PAGE **/
+#page-dashboard #region-1 {
+	width: 910px;
+	margin: 0 auto;
+	padding: 0 10px;
+	overflow: hidden;
+}
+#page-dashboard #region-1 .dashboard-image {
+	width: 50%;
+}
+#page-dashboard #region-1 img {
+	margin-bottom: 10px;
+	border-radius: 40px;
+}
+
+/** PROFILE PAGE **/
+#page-profile .profile-content {
+	width: 728px;
+}
+#page-profile #region-1 {
+	background-color: #ddd;
+	border: 3px solid #2c3e50;
+}
+#page-profile #region-1 .profile-name {
+	font-size: 32px;
+	text-transform: uppercase;	
+}
+#page-profile #region-1 .profile-name.mobile {
+	display: none;
+}
+#page-profile #region-1 .edit-icon img {
+	 height: 35px;
+	 margin: 8px 3px 0 0;
+}
+#page-profile #region-1 .tweet-profile img {
+	height: 35px;
+	margin-top: 7px;
+	cursor: pointer;
+}
+#page-profile #region-1 .profile-image {
+	height: 150px;
+	margin: 10px;
+	border-radius: 5px;
+}
+#page-profile #region-1 .main-info {
+	font-size: 30px;
+}
+#page-profile #region-2 {
+	height: 20px;
+	margin: 10px auto;
+	padding: 5px 0;
+ 	border: 2px solid #2c3e50;
+	border-radius: 5px;
+}
+#page-profile #region-2 p {
+	text-align: center;
+	color: #2c3e50;
+	font-weight: 400;
+}
+#page-profile #region-3,
+#page-profile #region-6 {
+	margin: 10px 0;
+	padding: 10px 5px;
+	font-size: 20px;
+	border-top: 5px solid #fc4349;
+	background: #2c3e50;
+}
+#page-profile #region-3 h1,
+#page-profile #region-6 h1 {
+	font-size: 100%;
+	color: #fff;
+	font-weight: 400;
+}
+#page-profile #region-3 thead,
+#page-profile #region-6 thead {
+	font-weight: bold;
+}
+#page-profile #region-3 thead tr,
+#page-profile #region-6 tr {
+	height: 30px;
+}
+#page-profile #region-3 td,
+#page-profile #region-6 td {
+	color: #fff;
+	font-size: 20px;
+}
+#page-profile .col1 {
+	width: 240px;
+	text-align: left;
+}
+#page-profile .col2 {
+	width: 100px;
+}
+#page-profile .col3 {
+	width: 100px;
+}
+#page-profile .current.col4 {
+	width: 190px;
+}
+#page-profile .previous.col4 {
+	width: 100px;
+}
+#page-profile .col5 {
+	width: 100px;
+}
+#page-profile .col6 {
+	width: 100px;
+}
+#page-profile #region-4 {
+	padding: 0 10px;
+	overflow: auto;
+}
+#page-profile #region-4 .match-tabs {
+	width: 48%;
+	height: 60px;
+	margin-bottom: 10px;
+	text-align: center;
+	border-radius: 5px;
+	background-color: #ddd;
+}
+#page-profile #region-4 .match-tabs p {
+	margin-top: 5px;
+}
+#page-profile #region-4 .match-tabs h1 {
+	color: #2c3e50;
+	margin-top: -3px;
+}
+#page-profile #region-5 {
+	text-align: center;
+}
+#page-profile #region-5 h1 {
+	margin: 5px 0;
+	color: #2c3e50;
+	font-size: 26px;
+}
+#page-profile #region-5 .pick-accuracy {
+	margin: 0 auto;
+}
+#page-profile #region-6 .view-previous {
+	width: 143px;
+	margin-top: 10px;
+	padding: 4px 2px;
+	font-size: 16px;
+  	background-color: #fc4349;
+}
+#page-profile .profile-sidebar {
+	width: 300px;
+}
+#page-profile .profile-sidebar .fav-teams {
+	height: 290px;
+	margin: 0 auto 10px;
+	padding: 10px;
+	text-align: center;
+	border: 3px solid #000;
+}
+#page-profile .profile-sidebar h3 {
+	margin-top: 10px;
+	font-size: 16px;
+}
+#page-profile .profile-sidebar .fav-teams img {
+	width: 135px;
+}
+
+/* Create Profile Page: Start */
+.AccountContainer {
+	position: relative;
+	top: 70px;
+	width: 320px;
+	margin: 0 auto;
+}
+
+.AccountContainer table {
+	width: 300px;
+	margin: 0px auto;
+}
+
+.AccountContainer caption {
+	font-size: 32px;
+	color: #fff;
+	background-color: #2c3e50;
+	margin-bottom: 15px;
+	padding: 3px;
+}
+
+.AccountContainer label {
+	font-size: 20px;
+}
+
+.AccountContainer input[type="file"] {
+	width: 160px;
+}
+
+.AccountContainer input[type="button"] {
+	margin-top: 14px;
+	background-color: #fc4349;
+	height: 35px;
+	width: 130px;
+	color: #fff;
+	font-size: 20px;
+}
+
+.CreateAccountWrapper .FooterContainer {
+	top: 100px;
+}
+/* Create Profile Page: End */
+
+/* Edit Profile Page: Start */
+.FullEditProfile {
+	position: relative;
+	top: 70px;
+	width: 728px;
+	margin: 0 auto;
+}
+
+.EditProfileMessage, .MatchMessage {
+	margin: 10px auto 15px;
+	text-align: center;
+}
+
+.EditProfileMessage label.editMessage,
+.MatchMessage label.editMessage {
+	font-size: 20px;
+	color: #ffffff;
+	background-color: #fc4349;
+	padding: 5px;
+}
+
+.EditTitleContainer {
+	width: 98%;
+	background-color: #2c3e50;
+	margin-bottom: 30px;
+	border-top: 3px solid #fc4349;
+}
+
+.EditTitleContainer label.mainTitle {
+	font-size: 30px;
+	color: #ffffff;
+	text-shadow: 1px .5px 0 #000000;
+	padding: 10px;
+}
+
+.back-profile {
+	position: relative;
+	top: -4px;
+	left: 6px;
+	background-color: #fff;
+	color: #2c3e50 !important;
+	text-shadow: none;
+	font-size: 15px;
+	padding: 3px;
+	border-radius: 5px;
+}
+
+.EditContentContainer {
+	width: 100%;
+	margin-top: 10px;
+}
+
+.EditContentContainer table {
+	margin-top: 10px;
+}
+
+.EditContentContainer label.editTitle {
+	font-size: 24px;
+}
+
+.EditContentContainer label.team-label {
+	width: 70%;
+}
+
+.EditContentContainer label.tableLabel {
+	font-size: 18px;
+}
+
+.EditContentContainer input[type="button"],
+.EditContentContainer input[type="submit"] {
+	height: 40px;
+	width: auto;
+	margin-top: 10px;
+	font-family: 'Play', sans-serif;
+	font-size: 20px;
+	background-color: #fc4349;
+	color: #ffffff;
+	border: 2px outset buttonface;
+	text-shadow: 1px .5px 0 #000000;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+}
+
+.ContentContainerA,
+.ContentContainerB, 
+.ContentContainerC {
+	display: -webkit-flex;
+	display: flex;
+	width: 100%;
+	-webkit-flex-flow: row wrap;
+	flex-flow: row wrap;
+}
+
+.ChangeNameContainer,
+.ChangeImageContainer,
+.EmailAccountContainer,
+.SocialAccountContainer {
+	width: 45%;
+	margin: 0 10px 10px 0;
+	padding: 10px;
+	border: 3px solid #2c3e50;
+	margin-bottom: 10px;
+	background-color: #ffffff;
+}
+
+.FavTeamsContainer {
+	width: 94.5%;
+	margin-bottom: 10px;
+	padding: 10px;
+	border: 3px solid #2c3e50;
+	background-color: #ffffff;
+}
+
+.ChangeNameContainer input[type="text"],
+.EmailAccountContainer input[type="email"], 
+.EmailAccountContainer input[type="password"] {
+	width: 96%;
+	font-size: 14px;
+}
+
+.ChangeImageContainer input[type="file"] {
+	margin-top: 10px;
+}
+
+.ChangeImageContainer input[type="submit"] {
+	margin-top: 8px;
+}
+
+.EmailAccountContainer img {
+	height: 14px;
+	cursor: pointer;
+}
+
+.SocialAccountContainer div {
+	display: -webkit-flex;
+	display: flex;
+}
+
+.SocialAccountContainer img {
+	height: 90px;
+	margin-top: 25px;
+}
+
+.FavTeamsContainer input[type="checkbox"] {
+	margin-top: 15px;
+}
+
+.FavTeamsContainer table select {
+	margin-right: 40px;
+}
+
+.FavTeamsContainer label.removeLabel {
+	font-size: 12px;
+	background-color: #fc4349;
+	padding: 3px;
+	color: #ffffff;
+	cursor: pointer;
+}
+/* Edit Profile Page: End */
+
+/* Match History Page: Start */
+.PreviousMatchesWrapper .PreviousMatches {
+	position: relative;
+	top: 60px;
+	width: 700px;
+	margin: 10px auto;
+}
+.PreviousMatchesWrapper .ad {
+	width: 728px;
+	margin: 0 auto 10px;
+}
+.PreviousMatchesWrapper .ad.top {
+	position: relative;
+	top: 60px;
+}
+/* Match History Page: End */
+
+/** MATCHES PAGE **/
+#page-matches #region-1 {
+	width: 300px;
+	margin: 10px auto;
+	font-size: 20px;
+	color: #fff;
+	text-align: center;
+}
+#page-matches #region-1 label {
+	padding: 5px 10px;
+	background-color: #fc4349;	
+}
+#page-matches #region-2 {
+	width: 900px;
+	margin: 10px auto;
+	overflow: hidden;
+}
+#page-matches #region-2 .top-bar {
+	width: 100%;
+	height: 40px;
+	background-color: #2c3e50;
+	border-radius: 5px 5px 0 0;
+}
+#page-matches #region-2 .top-bar h2 {
+	margin-left: 10px;
+	color: #fff;
+	line-height: 40px;
+	font-weight: 400;
+}
+#page-matches #region-2 .top-bar h3 {
+	margin: 0 10px;
+	color: #fff;
+	line-height: 40px;
+	font-weight: 400;
+}
+#page-matches #region-2 .matches-sidebar {
+	width: 200px;
+	background-color: #ededed;
+	height: 630px;
+	padding: 30px 10px 10px;
+}
+#page-matches #region-2 .match-filter {
+	overflow: auto;
+	margin-bottom: 30px;
+}
+#page-matches #region-2 .sports-header {
+	padding: 5px;
+	color: #fff;
+	font-size: 22px;
+	background-color: #fc4349;
+	border-radius: 5px;
+	clear: left;
+}
+#page-matches #region-2 .sports-category, 
+#page-matches #region-2 .type-category {
+	width: 44%;
+	margin-top: 10px;
+	padding: 5px;
+	font-size: 20px;
+	text-align: center;
+	background-color: #ccc;
+	border-radius: 5px;
+	cursor: pointer;
+}
+#page-matches #region-2 .type-category {
+	width: auto;
+}
+#page-matches #region-2 .selected-filter {
+	color: #fff;
+	background-color: #00a550;
+}
+#page-matches #region-2 .sports-header.clear {
+	margin-bottom: 30px;
+	text-align: center;
+  	background-color: #2c3e50;
+  	color: #fff;
+	cursor: pointer;
+}
+#page-matches #region-2 .matches-list {
+	width: 680px;
+	height: 670px;
+	background-color: #bbb;
+}
+
+/* Match Picks Page: Start */
+.MatchContainer {
+	position: relative;
+	top: 50px;
+}
+
+.view-only-container {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	z-index: 100005;
+	background-color: transparent;
+}
+
+.QuestionContainer {
+	width: 320px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+#q0 .start-title {
+	padding: 5px;
+	font-size: 22px;
+	font-weight: 400;
+	background-color: #fc4349;
+	color: #fff;
+	border: 5px solid #2C3E50;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+}
+
+#q0 .start-info {
+	font-size: 20px;
+  	font-weight: 400;
+	text-align: left;
+}
+
+.MatchTitle {
+	color: #2c3e50;
+}
+
+.MatchTitle h1 {
+	margin-top: 10px;
+	font-size: 26px;
+	text-align: center;
+}
+
+.MatchTitle h2 {
+	text-align: center;
+	font-weight: 400;
+}
+
+.MatchQuestions {
+	position: relative;
+	left: 0px;
+	width: 3200px;
+	height: 300px;
+	overflow-y: hidden;
+	-webkit-transition: left 0.3s;
+	transition: left 0.3s;
+}
+.MatchQuestions.view-only {
+	display: block;
+	height: auto;
+}
+
+.QuestionContent {
+	position: relative;
+	width: 290px;
+	margin: 5px;
+	background-color: #ddd;
+	/*border: 2px solid #2c3e50;*/
+	padding: 10px;
+	text-align: center;
+}
+
+.QuestionContent p {
+	text-align: left;
+}
+
+.QuestionContent .result-icon {
+	white-space: nowrap;
+}
+
+.answer-choice {
+	margin-top: 20px;
+	background-color: #2c3e50;
+	height: 50px;
+	border-radius: 10px;
+}
+
+.answer-choice p {
+	color: #fff;
+	font-size: 25px;
+	text-align: center;
+	line-height: 50px;
+}
+
+.answer-choice .answer {
+	cursor: pointer;
+}
+
+.nav-buttons {
+	overflow: auto;
+}
+
+.QuestionContent input[type=text] {
+	margin-top: 15px;
+	width: 80%;
+	height: 30px;
+	text-align: center;
+	font-size: 25px;
+}
+
+.nav-buttons div {
+	width: 120px;
+	height: 40px;
+	background-color: #fc4349;
+	margin-top: 20px;
+	cursor: pointer;
+}
+
+.nav-buttons .back-button {
+	background-color: #ccc;
+}
+
+.nav-buttons p {
+	text-align: center;
+	color: #fff;
+	font-size: 24px;
+	line-height: 40px;
+}
+
+.nav-buttons .start-button {
+	width: auto;
+}
+
+.QuestionFooter {
+	width: 100%;
+	text-align: center;
+}
+
+.nav-dots {
+	display: inline;
+	font-size: 20px;
+	color: #fc4349;
+	cursor: pointer;
+}
+
+.QuestionFooter input[type=button] {
+	width: 310px;
+	height: 40px;
+	margin: 10px auto 0;
+	font-size: 25px;
+	color: #fff;
+	background: #2c3e50;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+}
+
+.result-icon img {
+	display: none;
+	position: relative;
+	top: 1px;
+	height: 12px;
+	margin-left: 5px;
+}
+/* Match Picks Page: End */
+
+/** MATCH PAGE **/
+#page-match.content {
+	overflow: hidden;
+}
+#page-match .match-content {
+	width: 728px;	
+}
+#page-match th, #page-match td {
+   	font-weight: 400;
+	padding: 0 2px;
+}
+#page-match #region-1 {
+	margin: 10px auto;
+	text-align: center;
+}
+#page-match #region-1 h1 {
+	padding: 5px;
+	font-size: 20px;
+	font-weight: 400;
+	color: #ffffff;
+	background-color: #fc4349;
+}
+#page-match #region-3 {
+	margin-top: 10px;
+	padding: 5px;
+	color: #fff;
+	background-color: #fc4349;
+}
+#page-match #region-3 h1 {
+	font-size: 24px;
+	font-weight: 400;
+}
+#page-match #region-4 .match-menu {
+	margin-bottom: 10px;
+  	overflow: auto;
+}
+#page-match #region-4 #countdown {
+	font-family: 'Play', sans-serif;
+	margin-top: 10px;
+}
+#page-match #region-4  .match-option {
+	width: 152px;
+	margin: 10px 5px 0 0;
+}
+#page-match #region-4 .match-option h1 {
+	padding: 10px;
+	font-size: 18px;
+	font-weight: 400;
+	text-align: center;
+	border: 3px solid #2c3e50;
+	border-radius: 5px;
+	cursor: pointer;	
+}
+#page-match #region-5 .match-standings {
+	width: 728px;
+}
+#page-match #region-5 .match-standings h1 {
+	font-size: 24px;
+	font-weight: 400;
+	margin: 0 5px;
+}
+#page-match #region-5 .match-standings .tweet-match img {
+	height: 20px;
+	margin-top: 5px;
+	cursor: pointer;	
+}
+#page-match #region-5 .match-standings table {
+	width: 100%;
+}
+#page-match #region-5 .match-standings .title {
+	padding: 5px;
+	font-size: 20px;
+	text-align: left;
+	background-color: #2c3e50;
+}
+#page-match #region-5 .match-standings .title label {
+	margin-left: 5px;
+}
+#page-match #region-5 .match-standings table thead {
+	font-size: 20px;
+	color: #fff;
+	background-color: #fc4349;
+	text-shadow: 1px .5px 0 #000;
+}
+#page-match #region-5 .match-standings table tbody {
+	font-size: 20px;
+	text-align: center;
+	background-color: #fff;
+	border: 1px solid #000;
+}
+#page-match #region-5 .highlight-user {
+	color: #fff;
+	background-color: #2c3e50;
+}
+#page-match #region-6 #facebook_comments {
+	width: 728px;
+}
+#page-match #region-6 #facebook_comments hr {
+	height: 2px;
+	margin: 5px 0;
+	background-color: #ccc;
+}
+#page-match #region-7 {
+	width: 100%;
+}
+#page-match .match-sidebar {
+	width: 300px;
+	margin-top: 10px;
+	overflow: auto;
+}
+
+/* View Questions Page: Start */
+.ViewPicksContainer {
+	position: relative;
+	top: 60px;
+	width: 728px;
+	margin: 0 auto;
+	overflow: auto;
+}
+
+.ViewPicksContainer #region-1 {
+	margin: 0 auto 20px;
+}
+
+.MatchInfoContainer {
+	margin-bottom: 20px;
+}
+
+.MatchInfoContainer .title-container {
+	background-color: #fc4349;
+	margin-bottom: 10px;
+	padding: 5px;
+}
+
+.MatchInfoContainer .start-title {
+	display: inline;
+	color: #fff;
+}
+
+.MatchInfoContainer span {
+	position: relative;
+  	top: -6px;
+ 	margin-left: 5px;
+	padding: 5px;
+	font-family: 'Play', sans-serif;
+	background-color: #fff;
+	border-radius: 5px;
+}
+
+.ViewQuestionsContainer {
+	width: 728px;
+	font-family: 'Play', sans-serif;
+  	font-size: 20px;
+}
+
+.ViewQuestionsContainer .question-content {
+	margin-bottom: 10px;
+	padding: 2px 5px;
+}
+
+.ViewQuestionsContainer .question-content:nth-child(odd) {
+	background-color: #eee;
+}
+
+.ViewQuestionsContainer .action-button {
+	margin-bottom: 10px;
+	padding: 5px;
+	text-align: center;
+	border: 5px solid #2c3e50;
+	cursor: pointer;
+}
+/* View Questions Page: End */
+
+/** LEADERBOARD PAGE **/
+#page-leaderboard #region-1 {
+	margin-bottom: 10px;
+}
+#page-leaderboard #region-2 {
+	margin-bottom: 10px;
+	padding: 5px;
+	color: #fff;
+	background-color: #2c3e50;
+}
+#page-leaderboard #region-2 h1 {
+	font-size: 24px;
+	font-weight: 400;
+}
+#page-leaderboard #region-3 {
+	overflow: auto;
+}
+#page-leaderboard #region-3 .time-frame {
+	width: 150px;
+	margin: 10px 5px 0 0;
+}
+#page-leaderboard #region-3 .time-frame h1 {
+	padding: 10px;
+	font-size: 20px;
+	font-weight: 400;
+	text-align: center;
+	border: 3px solid #2c3e50;
+	border-radius: 5px;
+	cursor: pointer;	
+}
+#page-leaderboard #region-3 .time-frame .alltime h1 {
+	color: #fff;
+	background-color: #fc4349;
+}
+#page-leaderboard #region-4 {
+	margin-top: 30px;
+}
+#page-leaderboard #region-4 table {
+	width: 720px;
+	margin-bottom: 10px;
+}
+#page-leaderboard #region-4 td {
+	padding: 5px;
+	font-size: 20px;
+}
+#page-leaderboard #region-4 thead {
+	color: #fff;
+	background-color: #2c3e50;
+}
+#page-leaderboard #region-4 .tooltip img {
+	position: relative;
+	top: 2px;
+	height: 18px;
+	margin-left: 10px;	
+}
+#page-leaderboard .leaderboard-sidebar {
+	margin-bottom: 10px;	
+}
+
+/** ACHIEVEMENTS PAGE **/
+#page-achievements #region-1 {
+	margin-bottom: 10px;
+}
+#page-achievements #region-2 {
+	margin-bottom: 10px;
+	padding: 5px;
+	color: #fff;
+	background-color: #2c3e50;
+}
+#page-achievements #region-2 h1 {
+	font-size: 24px;
+	font-weight: 400;
+}
+#page-achievements #region-2 span {
+	position: relative;
+ 	top: -2px;
+	padding: 2px;
+	font-size: 16px;
+	color: #2c3e50;
+  	background-color: #fff;
+	white-space: nowrap;
+	border-radius: 5px;
+}
+#page-achievements #region-3 {
+	width: 720px;
+}
+#page-achievements #region-3 .earned-title {
+  	margin-bottom: 10px;
+	font-size: 26px;
+	color: #fc4349;
+}
+#page-achievements #region-3 img {
+	margin-right: 20px;
+}
+#page-achievements #region-3 h1.earned {
+	margin-top: 6px;
+	font-size: 35px;
+}
+#page-achievements #region-3 .earned-hr {
+	width: 435px;
+	margin: 16px 10px 0 0;	
+}
+#page-achievements #region-3 p.earned {
+	margin: 2px 15px 0 0;
+	font-size: 20px;
+	color: #808080;
+}
+#page-achievements #region-3 .unearned-achievements {
+	-webkit-flex-flow: row wrap;
+	flex-flow: row wrap;
+}
+#page-achievements #region-3 .unearned-title {
+  	margin: 10px 0 10px 0;
+	font-size: 26px;
+	color: #fc4349;
+}
+#page-achievements #region-3 .unearned-hr {
+	margin: 25px 10px 0 0;
+}
+#page-achievements #region-3 .unearned-achievements figure {
+	width: 155px;
+	margin: 0 0 10px 0;
+}
+#page-achievements #region-3 .unearned-achievements figure:nth-child(5n) {
+	width: 80px;	
+}
+#page-achievements #region-3 .unearned-achievements img {
+	height: 80px;
+}
+#page-achievements #region-3 figcaption {
+	width: 80px;
+	font-size: 13px;
+	font-weight: 700;
+	text-align: center;
+}
+#page-achievements .achievements-sidebar {
+	width: 300px;
+}
+
+/* 404 Page: Start */
+.PageNotFoundContainer {
+	position: relative;
+	top: 70px;
+	max-width: 530px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.PageNotFoundContainer p {
+	font-size: 20px;
+  	margin: 5px;
+}
+
+.PageNotFoundContainer img {
+	margin: 20px 0;
+	width: 100%;
+	max-width: 600px;
+}
+/* 404 Page: End */
+
+/* JQuery Media Query Styles: Start */
+.wideCheck {
+	display: block;
+}
+
+.desktopCheck, .tabletCheck, .mobileCheck {
+	display: none;
+}
+/* JQuery Media Query Styles: End */
+
+/* JQuery Tabs Override: Start */
+#LeaderboardContainer {
+	width: 220px;
+	height: 375px;
+	background-color: #ccc;
+	border: 3px solid #2c3e50;
+}
+
+#LeaderboardContainer h1 {
+	font-size: 20px;
+	color: #2c3e50;
+	margin: 10px 0 4px 0;
+	text-align: center;
+	text-shadow: 0 1px 0 #fff;
+}
+
+#LeaderboardContainer ol {
+	margin: 0;
+	padding: 10px;
+	background: #fff;
+}
+
+.ui-tabs .ui-tabs-nav {
+	margin-top: 20px;
+	background: #2c3e50;
+}
+
+.ui-tabs .ui-tabs-nav li {
+	left: 5px;
+}
+
+.ui-tabs .ui-tabs-nav .ui-tabs-anchor {
+	padding: 5px 8px 0;
+}
+
+.ui-widget {
+	font-family: 'Play', sans-serif;
+	font-size: 16px;
+}
+
+.ui-tabs .ui-tabs-panel {
+	padding: 0;
+}
+
+.ui-tabs-panel li {
+	list-style-type: decimal;
+	position: relative;
+	left: 25px;
+}
+
+.ui-widget-content {
+	background: none;
+}
+
+.LandingPageWrapper .ui-tabs .ui-tabs-nav {
+	padding: .2em .5em 0;
+}
+/* JQuery Tabs Override: End */
+
+/* Vex Dialog Box: Start */
+.vex-dialog-message h1 {
+	color: #fc4349 !important;
+	font-size: 26px;
+	font-weight: 400;
+}
+
+.vex-dialog-message h2 {
+	font-size: 18px;
+	margin: 10px 0;
+}
+/* Vex Dialog Box: End */
+
+/* Disqus Comments: Start */
+#disqus_thread {
+	position: relative;
+	top: 10px;
+	width: 710px;
+}
+/* Disqus Comments: End */
+
+/* Data Tables: Start */
+#match-list td {
+	font-size: 18px;
+	padding-left: 16px;
+}
+
+#match-list .view-match,
+.match-view-mobile .view-match {
+	width: 45px;
+	padding: 10px;
+	font-family: 'Play', sans-serif;
+	font-size: 18px;
+	text-align: center;
+	color: #fff;
+	background-color: #00a550;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+#match-list .quit-match,
+.match-view-mobile .quit-match {
+	background-color: #fc4349;
+}
+
+#match-list .match-time {
+	position: relative;
+	top: 10px;
+}
+
+.sorting_disabled {
+	padding: 10px;
+	text-align: left;
+}
+
+.sorting_disabled:nth-child(1) {
+	width: 110px !important;
+}
+
+.sorting_disabled:nth-child(2) {
+	width: 45px !important;
+}
+
+.sorting_disabled:nth-child(3) {
+	width: 40px !important;
+}
+
+.sorting_disabled:nth-child(4) {
+	width: 103px !important;
+}
+
+.sorting_disabled:nth-child(5) {
+	width: 130px !important;
+}
+
+.dataTables_length {
+	display: none;
+}
+
+.dataTables_paginate {
+	padding: 2px 0;
+}
+/* Data Tables: End */
+
+/* JQuery Dialog Box: Start */
+.ui-dialog .ui-dialog-content {
+	background-color: #fff;
+}
+
+.ui-dialog .ui-dialog-buttonpane {
+	background-color: #fff;
+}
+
+#achievement-message span, #unearned-message span {
+	width: 80px;
+	height: 80px;
+	margin: 0 7px 0 0;
+}
+
+#achievement-message img, #unearned-message img {
+	height: 80px;
+}
+
+#achievement-message .acv-title h1, #unearned-message .acv-title h1 {
+	font-size: 16px;
+}
+
+.ui-widget-content {
+	background: #2c3e50;
+}
+
+.ui-dialog .ui-dialog-buttonpane {
+	margin-top: 5px;
+}
+
+.ui-dialog-buttonset .ui-button-text {
+	font-family: Play, sans-serif;
+}
+/* JQuery Dialog Box: End */
+
+/** LIQUID SLIDER */
+.panel-wrapper {
+	margin-bottom: 10px;
+	padding: 10px !important;
+	text-align: center;
+}
+.panel-wrapper img {
+	max-width: 300px;
+	margin: 10px 0;
+}
+.liquid-slider p {
+	font-size: 18px;	
+}
+.liquid-slider .get-started {
+	margin-top: 10px;
+	color: #fc4349;
+}
+.ls-wrapper {
+	top: 70px;
+	margin: 0 auto;
+}
+
+/** WIDGETS **/
+#newsletter-widget {
+	width: 282px;
+	margin: 10px 0;
+	padding: 5px;
+	border: 4px solid #eebc1d;
+}
+#newsletter-widget img {
+	position: relative;
+	top: -19px;
+	width: 67px;
+}
+#newsletter-widget form {
+	margin-bottom: 0;
+}
+#newsletter-widget #newsletter-body {
+	width: 215px;
+	margin: 20px 0;
+}
+#newsletter-widget .newsletter-email {
+	width: 215px;
+	height: 25px;
+	font-size: 20px;
+	background-color: #ddd;
+}
+#newsletter-widget .newsletter-submit {
+	position: relative;
+	top: -4px;
+	width: 56px;
+	padding: 2px 0;
+	font-size: 12px;
+	color: #fff;
+	background-color: #000;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+}

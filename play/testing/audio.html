@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+</head>
+
+<body>
+	<audio id="tko"></audio>
+    <a class="play" href="javascript:;"><h1>Play TKO</h1></a>
+    <a class="mute" href="javascript:;"><h1>Turn Mute ON</h1></a>
+    
+	<script>
+		$('#tko').attr('src', './tko.mp3');
+		
+		$('.play').click(function() {
+            $('#tko')[0].play();
+        });
+		
+		$('.mute').click(function() {
+			if ($('#tko')[0].muted === false) {
+            	$('#tko')[0].muted = true;
+				$('.mute').html('<h1>Turn Mute OFF</h1>');
+			} else {
+				$('#tko')[0].muted = false;
+				$('.mute').html('<h1>Turn Mute ON</h1>');
+			}
+        });
+		
+	</script>
+</body>
+</html>

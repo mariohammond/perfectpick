@@ -1,0 +1,103 @@
+/* Eagle Theme - CSS Styles (Tablet) */
+
+@media all and (max-width: 1023px) {
+	.ContentContainer {
+		width: 728px;
+		margin: 50px auto 0;
+	}
+	
+	.social-buttons {
+		display: none;
+	}
+	
+	.next-match {
+		display: none;
+	}
+	
+	.next-match-text {
+		display: none;
+	}
+	
+	.ad-block-1 {
+		margin-left: 0px;
+	}
+	
+	.StoryContainer {
+		margin: 0;
+	}
+	
+	.FeaturedStoryContainer {
+		margin: 0;
+	}
+	
+	.featured-title {
+		font-size: 36px;	
+	}
+	
+	.featured-image img {
+		display: block;
+		height: auto;
+	}
+	
+	.SidebarRightContainer {
+		display: none;
+	}
+	
+	.LeadStoriesContainer {
+		display: block;
+	}
+	
+	.lead-story-text h2 {
+		font-size: 23px;
+	}
+	
+	.lead-story p {
+		font-size: 24px;
+	}
+	
+	.youtube-container {
+		display: none;	
+	}
+	
+	.StoryListContainer .list-content {
+		padding: 0;
+	}
+	
+	.sport-list {
+		width: 49%;
+		height: 250px;
+	}
+	
+	.ad-block-tablet-1 {
+		position: relative;
+		top: 5px;
+	}
+	
+	.footer-logo-full {
+		display: none;
+	}
+	
+	.footer-logo-short {
+		display: block !important;
+	}
+	
+	/* Landing Page Styles: Start */
+	.category-list-content h2 {
+		font-size: 28px;	
+	}
+	
+	.category-list-content p {
+		font-size: 18px;
+	}
+	/* Landing Page Styles: End */
+	
+	/* Article Page Styles: Start */
+	.SidebarRightContainer {
+		display: none;
+	}
+	
+	.ArticleWrapper .ContentContainer {
+		width: 728px;
+	}
+	/* Article Page Styles: End */
+}

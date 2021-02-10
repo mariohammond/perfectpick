@@ -1,0 +1,7 @@
+[19-Mar-2015 02:14:25 UTC] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/demarelle/public_html/play/connect/gplus/lib/src/auth/Google_OAuth2.php:115
+Stack trace:
+#0 /home/demarelle/public_html/play/connect/gplus/lib/src/Google_Client.php(127): Google_OAuth2->authenticate(Array, NULL)
+#1 /home/demarelle/public_html/play/connect/gplus/login.php(27): Google_Client->authenticate()
+#2 /home/demarelle/public_html/play/connect/gplus/login.php(88): G_login->login()
+#3 {main}
+  thrown in /home/demarelle/public_html/play/connect/gplus/lib/src/auth/Google_OAuth2.php on line 115

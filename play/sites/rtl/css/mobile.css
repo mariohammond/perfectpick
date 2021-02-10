@@ -1,0 +1,158 @@
+/* Play Theme - CSS Styles (Mobile) */
+
+@media all and (max-width: 735px) {
+
+/** HEADER **/
+.header .logo {
+	height: 65px;
+	margin: 18px 5px 0;
+}
+.header .header-info {
+	float: none;
+	padding: 20px 0 0 5px;
+}
+.header .header-info p {
+	font-size: 12px;
+}
+.header .social-buttons {
+	display: none;
+}
+
+/** FOOTER **/
+.footer .logo {
+	display: none;
+}
+.footer .footer-info {
+	margin-left: 5px;
+}
+.footer .footer-info p {
+	font-size: 14px;
+}
+.footer .footer-contact {
+	margin: 35px 10px 0 0;
+}
+.footer .footer-contact p {
+	font-size: 16px;
+}
+
+/** GLOBAL PAGES **/
+.content {
+	width: auto;
+	margin: 20px 10px;
+}
+.section-title {
+	font-size: 26px;
+}
+
+/** HOME PAGE **/
+#page-home .president-section {
+	margin-bottom: 20px;
+	text-align: center;
+}
+#page-home .president-section .section-title {
+	padding: 0;
+}
+#page-home .president-section img {
+	float: none;
+	margin: 0 0 10px 0;
+}
+#page-home .president-section p {
+    font-size: 16px;
+    line-height: 32px;
+}
+#page-home #slideshow {
+	width: 340px;
+	height: 150px;
+}
+#page-home .photo-gallery .photo img {
+	width: 340px;
+	height: 150px;
+}
+#page-home #slideshow .fa {
+	top: 65px;
+	font-size: 60px;
+}
+#page-home #slideshow .fa-angle-right {
+	left: 310px;
+}
+#page-home .events-section {
+	width: 100%;
+	margin-top: 20px;
+}
+#page-home .events-section figure {
+	float: none;
+	width: 100%;
+	margin: 0 auto;
+	padding: 0;
+	text-align: center;
+}
+#page-home .events-section img {
+	margin-right: 0;
+}
+#page-home .events-section figcaption {
+	width: 100%;
+}
+#page-rtl-history .rtl-history .image-1,
+#page-rtl-history .rtl-history .image-2,
+#page-rtl-history .rtl-history .image-3 {
+	width: 100%;
+	height: auto;
+	margin-bottom: 10px;
+}
+#page-rtl-history .rtl-history p {
+	font-size: 16px;
+	line-height: 32px;
+}
+
+/** APA HISTORY PAGE **/
+#page-apa-history .alpha-history {
+	text-align: center;
+}
+#page-apa-history .section-title {
+	padding: 0;
+}
+#page-apa-history .alpha-history .image-1 {
+	float: none;
+	margin: 0;
+}
+#page-apa-history .alpha-history p {
+	font-size: 16px;
+	line-height: 32px;
+}
+#page-apa-history .founder-info img {
+	float: none;
+	margin: 0 0 10px 0;
+}
+
+/** CURRENT MEMBERS PAGE **/
+#page-members .group-image img{
+	width: 100%;
+}
+#page-members .officers figure {
+	float: none;
+	text-align: center;
+}
+#page-members .officers figure,
+#page-members .officers figure:nth-of-type(3n),
+#page-members .officers figure:nth-of-type(3n+1),
+#page-members .officers figure:nth-of-type(4n) {
+	margin-right: 0;
+	clear: none;
+}
+#page-members ul {
+	width: 100%;
+}
+#page-members .members li {
+	width: 100%;
+	font-size: 18px;
+}
+
+/** MEDIA QUERIES **/
+.mobileCheck {
+	display: block;
+}
+.wideCheck, .desktopCheck, .tabletCheck {
+	display: none;
+}
+
+}

@@ -1,0 +1,805 @@
+# Copyright (C) 2015 Playbuzz
+# This file is distributed under the same license as the Playbuzz package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Playbuzz 0.9.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/playbuzz\n"
+"POT-Creation-Date: 2015-07-09 08:52:06+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. #-#-#-#-#  plugin.pot (Playbuzz 0.9.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#. #-#-#-#-#  plugin.pot (Playbuzz 0.9.0)  #-#-#-#-#
+#. Author of the plugin/theme
+#: admin.php:104 admin.php:105 scripts-styles.php:64
+msgid "Playbuzz"
+msgstr ""
+
+#: admin.php:128
+msgid "Playbuzz Plugin"
+msgstr ""
+
+#: admin.php:130
+msgid "Getting Started"
+msgstr ""
+
+#: admin.php:131
+msgid "Site Settings"
+msgstr ""
+
+#: admin.php:132
+msgid "Shortcodes"
+msgstr ""
+
+#: admin.php:133
+msgid "Feedback"
+msgstr ""
+
+#: admin.php:142
+msgid "Embed Items from Playbuzz"
+msgstr ""
+
+#: admin.php:146
+msgid ""
+"Create a new post/page and click the blue Playbuzz button in the visual "
+"editor"
+msgstr ""
+
+#: admin.php:149
+msgid ""
+"Search for any item, browse our featured items or select one of your own "
+"creations"
+msgstr ""
+
+#: admin.php:152
+msgid "To embed the item to your post click on the “Embed” button"
+msgstr ""
+
+#: admin.php:162
+msgid "Item Customization"
+msgstr ""
+
+#: admin.php:166
+msgid ""
+"After embedding the item in your post, click on the settings icon to open "
+"the item settings panel"
+msgstr ""
+
+#: admin.php:169
+msgid "Apply default site settings"
+msgstr ""
+
+#: admin.php:172
+msgid "Or select the \"custom\" option to apply customized settings"
+msgstr ""
+
+#: admin.php:180 admin.php:217
+msgid "Default Site Settings"
+msgstr ""
+
+#: admin.php:184
+msgid ""
+"You don’t have to manually set the options for each of your embeds! You can "
+"now use the <a href=\"%s\">default site settings</a> panel"
+msgstr ""
+
+#: admin.php:187
+msgid ""
+"This panel  is always available for you <a href=\"%s\">here</a> and at the "
+"following path: Settings > Playbuzz > Customization"
+msgstr ""
+
+#: admin.php:190
+msgid ""
+"Your site default settings won't override any of your manual item-specific "
+"settings!"
+msgstr ""
+
+#: admin.php:204 scripts-styles.php:66
+msgid "My Items"
+msgstr ""
+
+#: admin.php:207
+msgid "Playbuzz Username"
+msgstr ""
+
+#: admin.php:208
+msgid "e.g. sarahpark10"
+msgstr ""
+
+#: admin.php:210
+msgid ""
+"You can find your username by going to your profile page on %s, and copying "
+"the username from the page URL. (Everything after the last \"/\")"
+msgstr ""
+
+#: admin.php:211
+msgid "Example:"
+msgstr ""
+
+#: admin.php:221 scripts-styles.php:125
+msgid "Display item information"
+msgstr ""
+
+#: admin.php:223 scripts-styles.php:126
+msgid "Show item thumbnail, name, description, creator."
+msgstr ""
+
+#: admin.php:227 scripts-styles.php:127
+msgid "Display share buttons"
+msgstr ""
+
+#: admin.php:229 scripts-styles.php:128
+msgid "Show share buttons with links to YOUR site."
+msgstr ""
+
+#: admin.php:233 scripts-styles.php:131
+msgid "Display Facebook comments"
+msgstr ""
+
+#: admin.php:235 scripts-styles.php:132
+msgid "Show Facebook comments in your items."
+msgstr ""
+
+#: admin.php:241
+msgid "Sticky Header Preferences"
+msgstr ""
+
+#: admin.php:244 scripts-styles.php:134
+msgid "Height"
+msgstr ""
+
+#: admin.php:246 scripts-styles.php:135
+msgid "px"
+msgstr ""
+
+#: admin.php:248 scripts-styles.php:136
+msgid ""
+"Use this if your website has top header that's always visible, even while "
+"scrolling down."
+msgstr ""
+
+#: admin.php:254
+msgid "Appearance Preferences"
+msgstr ""
+
+#: admin.php:257
+msgid "Display embedded items on"
+msgstr ""
+
+#: admin.php:259
+msgid "Posts & Pages Only"
+msgstr ""
+
+#: admin.php:260
+msgid "All pages (singular, archive, ect.)"
+msgstr ""
+
+#: admin.php:263
+msgid ""
+"Whether to show the embedded content only in <a href=\"%s\" target=\"_blank"
+"\">singular pages</a>, or <a href=\"%s\" target=\"_blank\">archive page</a> "
+"too."
+msgstr ""
+
+#: admin.php:269
+msgid "Item Recommendations"
+msgstr ""
+
+#: admin.php:273 scripts-styles.php:129
+msgid "Display more recommendations"
+msgstr ""
+
+#: admin.php:275 admin.php:465 admin.php:518 scripts-styles.php:130
+msgid "Show recommendations for more items."
+msgstr ""
+
+#: admin.php:283 widgets.php:181
+msgid "Tags"
+msgstr ""
+
+#: admin.php:286 widgets.php:182
+msgid "All"
+msgstr ""
+
+#: admin.php:290 widgets.php:183
+msgid "Fun"
+msgstr ""
+
+#: admin.php:294 widgets.php:184
+msgid "Pop"
+msgstr ""
+
+#: admin.php:298 widgets.php:185
+msgid "Geek"
+msgstr ""
+
+#: admin.php:302 widgets.php:186
+msgid "Sports"
+msgstr ""
+
+#: admin.php:306 widgets.php:187
+msgid "Editor's Pick"
+msgstr ""
+
+#: admin.php:311 widgets.php:190
+msgid "Custom Tags"
+msgstr ""
+
+#: admin.php:312
+msgid "Comma separated tags, e.g. food, rap, weather"
+msgstr ""
+
+#: admin.php:320
+msgid "Authentication"
+msgstr ""
+
+#: admin.php:322
+msgid "API Key"
+msgstr ""
+
+#: admin.php:331
+msgid "Related Content Customization"
+msgstr ""
+
+#: admin.php:335 widgets.php:162
+msgid "Number of Items"
+msgstr ""
+
+#: admin.php:356 widgets.php:154
+msgid "Items layout"
+msgstr ""
+
+#: admin.php:358 widgets.php:156
+msgid "Large Images"
+msgstr ""
+
+#: admin.php:359 widgets.php:157
+msgid "Horizontal Images"
+msgstr ""
+
+#: admin.php:360 widgets.php:158
+msgid "No Images"
+msgstr ""
+
+#: admin.php:383
+msgid "Open Items at"
+msgstr ""
+
+#: admin.php:385 widgets.php:195
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Create</a> a new page containing the <code>"
+"[playbuzz-section]</code> shortcode. Then select it below as the destination "
+"page where items will open:"
+msgstr ""
+
+#: admin.php:392 widgets.php:203
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: admin.php:403
+msgid "Automatically Add Recommendations"
+msgstr ""
+
+#: admin.php:406
+msgid "Active"
+msgstr ""
+
+#: admin.php:409
+msgid "Disable"
+msgstr ""
+
+#: admin.php:410
+msgid "Enable"
+msgstr ""
+
+#: admin.php:415
+msgid "Location"
+msgstr ""
+
+#: admin.php:418
+msgid "Above the content"
+msgstr ""
+
+#: admin.php:419
+msgid "Bellow the content"
+msgstr ""
+
+#: admin.php:435
+msgid "Item Shortcode"
+msgstr ""
+
+#: admin.php:436
+msgid "Choose any Playful Content item from %s and easily embed it in a post."
+msgstr ""
+
+#: admin.php:437
+msgid ""
+"For basic use, paste the item URL into your text editor and go to the visual "
+"editor to make sure it loads."
+msgstr ""
+
+#: admin.php:438
+msgid ""
+"For more advance usage, use the following shortcode if you want to adjust "
+"the item appearance:"
+msgstr ""
+
+#: admin.php:440
+msgid ""
+"You can set default appearance settings in the <a href=\"%s\">Site Settings</"
+"a> tab."
+msgstr ""
+
+#: admin.php:441
+msgid ""
+"Or you can override the default appearance and customize each item with the "
+"following shortcode attributes:"
+msgstr ""
+
+#: admin.php:445
+msgid "The URL of the item that will be displayed."
+msgstr ""
+
+#: admin.php:446
+msgid "Type: URL"
+msgstr ""
+
+#: admin.php:450
+msgid "Show item info (thumbnail, name, description, editor, etc)."
+msgstr ""
+
+#: admin.php:451 admin.php:456 admin.php:461 admin.php:466 admin.php:509
+#: admin.php:514 admin.php:519
+msgid "Type: Boolean (true/false) ; Default: true"
+msgstr ""
+
+#: admin.php:455 admin.php:508
+msgid "Show sharing buttons."
+msgstr ""
+
+#: admin.php:460 admin.php:513
+msgid "Show comments control from the item page."
+msgstr ""
+
+#: admin.php:470 admin.php:523
+msgid ""
+"Destination page, containing the [playbuzz-section] shortcode, where new "
+"items will be displayed."
+msgstr ""
+
+#: admin.php:471 admin.php:524
+msgid "Type: URL ; Default: https://www.playbuzz.com/"
+msgstr ""
+
+#: admin.php:475 admin.php:528
+msgid "Define custom width in pixels."
+msgstr ""
+
+#: admin.php:476 admin.php:481 admin.php:529 admin.php:534
+msgid "Type: String ; Default: auto"
+msgstr ""
+
+#: admin.php:480 admin.php:533
+msgid "Define custom height in pixels."
+msgstr ""
+
+#: admin.php:485 admin.php:538
+msgid "Define custom margin-top in pixels."
+msgstr ""
+
+#: admin.php:486 admin.php:539
+msgid "Type: String ; Default: 0px"
+msgstr ""
+
+#: admin.php:494
+msgid "Section Shortcode"
+msgstr ""
+
+#: admin.php:495
+msgid ""
+"Choose any list of Playful Items in a specific vertical from %s and easily "
+"embed it in a post. This is best used as a \"Playful Section\" displaying "
+"items in the selected tags (topics)."
+msgstr ""
+
+#: admin.php:496
+msgid ""
+"For basic use, paste the section URL into your text editor and go to the "
+"visual editor to make sure it loads."
+msgstr ""
+
+#: admin.php:497
+msgid ""
+"Use the following shortcode if you want to adjust the settings of your "
+"embedded section:"
+msgstr ""
+
+#: admin.php:499
+msgid ""
+"You can tweak the general settings for the section with the following "
+"shortcode attributes:"
+msgstr ""
+
+#: admin.php:503
+msgid "Filters the content shown by comma separated tags."
+msgstr ""
+
+#: admin.php:504
+msgid "Type: String ; Default: All"
+msgstr ""
+
+#: admin.php:549
+msgid "We Are Listening"
+msgstr ""
+
+#: admin.php:551
+msgid ""
+"We’d love to know about your experiences with our WordPress plugin and "
+"beyond. Drop us a line using the form below"
+msgstr ""
+
+#: admin.php:559
+msgid "Your Name"
+msgstr ""
+
+#: admin.php:563
+msgid "Email (so we can write you back)"
+msgstr ""
+
+#: admin.php:567
+msgid "Message"
+msgstr ""
+
+#: admin.php:568
+msgid "What's on your mind?"
+msgstr ""
+
+#: admin.php:570
+msgid "WordPress plugin feedback"
+msgstr ""
+
+#: admin.php:571
+msgid "Submit"
+msgstr ""
+
+#: admin.php:578
+msgid "Enjoying the Playbuzz WordPress Plugin?"
+msgstr ""
+
+#: admin.php:579
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Rate us</a> on the WordPress Plugin "
+"Directory to help others to discover the engagement value of Playbuzz embeds!"
+msgstr ""
+
+#: admin.php:585
+msgid "Become a Premium Playbuzz Publisher"
+msgstr ""
+
+#: admin.php:586
+msgid ""
+"Want to learn how Playbuzz can take your publication’s engagement to new "
+"heights?"
+msgstr ""
+
+#: admin.php:586
+msgid "Lets Talk!"
+msgstr ""
+
+#: admin.php:592
+msgid "Join the Playbuzz Publishers Community"
+msgstr ""
+
+#: index.php:43
+msgid "Settings"
+msgstr ""
+
+#: scripts-styles.php:65
+msgid "Playbuzz Content"
+msgstr ""
+
+#: scripts-styles.php:67
+msgid "+ Create Your Own"
+msgstr ""
+
+#: scripts-styles.php:68
+msgid "Search Term"
+msgstr ""
+
+#: scripts-styles.php:69
+msgid "Search my items"
+msgstr ""
+
+#: scripts-styles.php:70
+msgid "Results for"
+msgstr ""
+
+#: scripts-styles.php:71
+msgid "No results found"
+msgstr ""
+
+#: scripts-styles.php:72
+msgid "Please try again with a different search."
+msgstr ""
+
+#: scripts-styles.php:73
+msgid "Change User"
+msgstr ""
+
+#: scripts-styles.php:74
+msgid "Server error"
+msgstr ""
+
+#: scripts-styles.php:75
+msgid "Please try again in a few minutes."
+msgstr ""
+
+#: scripts-styles.php:76
+msgid "No user"
+msgstr ""
+
+#: scripts-styles.php:77
+msgid "Set User"
+msgstr ""
+
+#: scripts-styles.php:78
+msgid ""
+"Go to the <a href=\"options-general.php?page=playbuzz&tab=embed\" target="
+"\"_blank\">Settings</a> and set your Playbuzz.com username."
+msgstr ""
+
+#: scripts-styles.php:79
+msgid "You don't have any items (yet!)."
+msgstr ""
+
+#: scripts-styles.php:80
+msgid ""
+"Go to <a href=\"https://www.playbuzz.com/\" target=\"_blank\">Playbuzz.com</"
+"a> to create your own playful content and embed on your site."
+msgstr ""
+
+#: scripts-styles.php:81
+msgid "page"
+msgstr ""
+
+#: scripts-styles.php:82
+msgid "Jan"
+msgstr ""
+
+#: scripts-styles.php:83
+msgid "Feb"
+msgstr ""
+
+#: scripts-styles.php:84
+msgid "Mar"
+msgstr ""
+
+#: scripts-styles.php:85
+msgid "Apr"
+msgstr ""
+
+#: scripts-styles.php:86
+msgid "May"
+msgstr ""
+
+#: scripts-styles.php:87
+msgid "Jun"
+msgstr ""
+
+#: scripts-styles.php:88
+msgid "Jul"
+msgstr ""
+
+#: scripts-styles.php:89
+msgid "Aug"
+msgstr ""
+
+#: scripts-styles.php:90
+msgid "Sep"
+msgstr ""
+
+#: scripts-styles.php:91
+msgid "Oct"
+msgstr ""
+
+#: scripts-styles.php:92
+msgid "Nov"
+msgstr ""
+
+#: scripts-styles.php:93
+msgid "Dec"
+msgstr ""
+
+#: scripts-styles.php:94
+msgid "Show"
+msgstr ""
+
+#: scripts-styles.php:95
+msgid "All Types"
+msgstr ""
+
+#: scripts-styles.php:96
+msgid "Personality Quiz"
+msgstr ""
+
+#: scripts-styles.php:97
+msgid "List"
+msgstr ""
+
+#: scripts-styles.php:98
+msgid "Trivia"
+msgstr ""
+
+#: scripts-styles.php:99
+msgid "Poll"
+msgstr ""
+
+#: scripts-styles.php:100
+msgid "Ranked List"
+msgstr ""
+
+#: scripts-styles.php:101
+msgid "Gallery Quiz"
+msgstr ""
+
+#: scripts-styles.php:102
+msgid "Sort By"
+msgstr ""
+
+#: scripts-styles.php:103
+msgid "Relevance"
+msgstr ""
+
+#: scripts-styles.php:104
+msgid "Views"
+msgstr ""
+
+#: scripts-styles.php:105
+msgid "Date"
+msgstr ""
+
+#: scripts-styles.php:106
+msgid "Discover Playful Content"
+msgstr ""
+
+#: scripts-styles.php:107
+msgid "Featured Items"
+msgstr ""
+
+#: scripts-styles.php:108
+msgid "Created by"
+msgstr ""
+
+#: scripts-styles.php:109
+msgid "by"
+msgstr ""
+
+#: scripts-styles.php:110
+msgid "By"
+msgstr ""
+
+#: scripts-styles.php:111
+msgid "on"
+msgstr ""
+
+#: scripts-styles.php:112
+msgid "items"
+msgstr ""
+
+#: scripts-styles.php:113
+msgid "View"
+msgstr ""
+
+#: scripts-styles.php:114
+msgid "Embed"
+msgstr ""
+
+#: scripts-styles.php:115
+msgid "Preview item"
+msgstr ""
+
+#: scripts-styles.php:116
+msgid "Playbuzz item does not exist"
+msgstr ""
+
+#: scripts-styles.php:117
+msgid "Check shortcode URL in the text editor."
+msgstr ""
+
+#: scripts-styles.php:118
+msgid "Your item will be embedded here"
+msgstr ""
+
+#: scripts-styles.php:119
+msgid "Playbuzz Item Settings"
+msgstr ""
+
+#: scripts-styles.php:120
+msgid "Item Settings"
+msgstr ""
+
+#: scripts-styles.php:121
+msgid "Embedded Item Appearance"
+msgstr ""
+
+#: scripts-styles.php:122
+msgid "Use site default settings"
+msgstr ""
+
+#: scripts-styles.php:123
+msgid "Configure default settings"
+msgstr ""
+
+#: scripts-styles.php:124
+msgid "Custom"
+msgstr ""
+
+#: scripts-styles.php:133
+msgid "Site has fixed (sticky) top header"
+msgstr ""
+
+#: scripts-styles.php:137
+msgid "Cancel"
+msgstr ""
+
+#: scripts-styles.php:138
+msgid "Update Item"
+msgstr ""
+
+#: scripts-styles.php:139
+msgid "Feedback sent, thank you!"
+msgstr ""
+
+#: scripts-styles.php:140
+msgid "Something went wrong please try again..."
+msgstr ""
+
+#: scripts-styles.php:141
+msgid "Some required fields are missing."
+msgstr ""
+
+#: widgets.php:31
+msgid "Playbuzz Recommendations"
+msgstr ""
+
+#: widgets.php:34
+msgid "Related Playful Content links and recommendations by playbuzz."
+msgstr ""
+
+#: widgets.php:130
+msgid "Play It"
+msgstr ""
+
+#: widgets.php:150
+msgid "Title"
+msgstr ""
+
+#: widgets.php:151
+msgid "Widget title"
+msgstr ""
+
+#: widgets.php:191
+msgid "Comma separated tags"
+msgstr ""
+
+#: widgets.php:194
+msgid "Open Items at (location of section)"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Playbuzz 0.9.0)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (Playbuzz 0.9.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://www.playbuzz.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Embed customized playful content from Playbuzz.com into your WordPress site"
+msgstr ""

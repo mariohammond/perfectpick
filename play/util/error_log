@@ -1,0 +1,275 @@
+[27-Jan-2015 03:58:53 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/demarelle/public_html/play/util/get_teams.php on line 10
+[27-Jan-2015 03:59:10 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/demarelle/public_html/play/util/get_teams.php on line 10
+[27-Jan-2015 03:59:58 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/demarelle/public_html/play/util/get_teams.php on line 10
+[27-Jan-2015 04:00:00 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/demarelle/public_html/play/util/get_teams.php on line 10
+[27-Jan-2015 04:02:44 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/demarelle/public_html/play/util/add_team.php on line 14
+[27-Jan-2015 04:06:30 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[27-Jan-2015 04:06:30 UTC] PHP Notice:  Undefined variable: mysqli in /home/demarelle/public_html/play/util/add_team.php on line 17
+[27-Jan-2015 04:06:30 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/demarelle/public_html/play/util/add_team.php on line 17
+[27-Jan-2015 04:09:44 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[27-Jan-2015 04:09:44 UTC] PHP Notice:  Undefined variable: mysqli in /home/demarelle/public_html/play/util/add_team.php on line 17
+[27-Jan-2015 04:09:44 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/demarelle/public_html/play/util/add_team.php on line 17
+[27-Jan-2015 04:10:25 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[27-Jan-2015 04:10:25 UTC] PHP Notice:  Undefined variable: mysqli in /home/demarelle/public_html/play/util/add_team.php on line 17
+[27-Jan-2015 04:10:25 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/demarelle/public_html/play/util/add_team.php on line 17
+[27-Jan-2015 04:15:17 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[27-Jan-2015 04:15:17 UTC] PHP Notice:  Undefined variable: mysqli in /home/demarelle/public_html/play/util/add_team.php on line 17
+[27-Jan-2015 04:15:17 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/demarelle/public_html/play/util/add_team.php on line 17
+[27-Jan-2015 04:18:12 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[27-Jan-2015 04:18:12 UTC] PHP Notice:  Undefined variable: mysqli in /home/demarelle/public_html/play/util/add_team.php on line 17
+[27-Jan-2015 04:18:12 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/demarelle/public_html/play/util/add_team.php on line 17
+[27-Jan-2015 04:19:45 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[27-Jan-2015 04:19:45 UTC] PHP Notice:  Undefined variable: mysqli in /home/demarelle/public_html/play/util/add_team.php on line 17
+[27-Jan-2015 04:19:45 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/demarelle/public_html/play/util/add_team.php on line 17
+[27-Jan-2015 04:26:06 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[27-Jan-2015 04:27:47 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[27-Jan-2015 04:27:54 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[27-Jan-2015 04:28:01 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[27-Jan-2015 04:28:07 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[28-Jan-2015 00:10:29 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[28-Jan-2015 01:29:56 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[28-Jan-2015 03:23:38 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[28-Jan-2015 03:24:14 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[28-Jan-2015 03:24:26 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[28-Jan-2015 03:24:39 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[28-Jan-2015 03:33:51 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[28-Jan-2015 03:35:28 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[28-Jan-2015 03:35:38 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[28-Jan-2015 03:35:52 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[28-Jan-2015 03:36:35 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[28-Jan-2015 11:48:04 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[28-Jan-2015 11:48:18 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[28-Jan-2015 14:51:15 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[28-Jan-2015 14:51:37 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[28-Jan-2015 14:52:41 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[29-Jan-2015 06:55:02 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/demarelle/public_html/play/util/join_match.php on line 12
+[30-Jan-2015 14:25:29 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[01-Feb-2015 16:29:30 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/demarelle/public_html/play/util/functions.php on line 867
+[01-Feb-2015 18:25:00 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[01-Feb-2015 18:25:16 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[01-Feb-2015 18:40:42 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[01-Feb-2015 18:49:19 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[01-Feb-2015 19:05:53 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[01-Feb-2015 19:06:11 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[01-Feb-2015 19:22:38 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[01-Feb-2015 19:22:58 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[01-Feb-2015 19:52:26 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[01-Feb-2015 19:52:45 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[01-Feb-2015 20:27:36 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[01-Feb-2015 20:35:03 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[01-Feb-2015 20:35:12 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[01-Feb-2015 20:35:18 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[01-Feb-2015 20:50:08 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[01-Feb-2015 20:50:18 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[01-Feb-2015 21:33:06 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[01-Feb-2015 21:33:30 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[01-Feb-2015 21:36:00 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[02-Feb-2015 06:10:30 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[02-Feb-2015 06:10:41 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[02-Feb-2015 06:10:49 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 71
+[06-Mar-2015 04:00:02 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[06-Mar-2015 18:36:50 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[06-Mar-2015 18:37:21 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[08-Mar-2015 20:33:37 UTC] PHP Fatal error:  Call to undefined function getMatchInfo() in /home/demarelle/public_html/play/util/view_match.php on line 2
+[09-Mar-2015 04:33:18 UTC] PHP Fatal error:  Call to undefined function getMatches() in /home/demarelle/public_html/play/util/filter_match.php on line 1
+[09-Mar-2015 13:03:53 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/demarelle/public_html/play/util/filter_match.php on line 20
+[09-Mar-2015 13:04:49 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/demarelle/public_html/play/util/filter_match.php on line 20
+[09-Mar-2015 13:05:28 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/demarelle/public_html/play/util/filter_match.php on line 20
+[09-Apr-2015 18:40:03 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/demarelle/public_html/play/util/functions.php on line 1376
+[09-Apr-2015 18:41:00 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/demarelle/public_html/play/util/functions.php on line 1376
+[09-Apr-2015 18:42:26 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/demarelle/public_html/play/util/functions.php on line 1376
+[09-Apr-2015 18:43:21 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/demarelle/public_html/play/util/functions.php on line 1376
+[06-May-2015 21:20:51 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[07-May-2015 19:44:35 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[07-May-2015 19:44:59 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[07-May-2015 19:45:12 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[07-May-2015 19:45:28 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[12-May-2015 00:46:57 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[12-May-2015 00:47:11 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[12-May-2015 00:47:28 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[08-Jul-2015 03:35:41 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/demarelle/public_html/play/util/functions.php on line 1355
+[08-Jul-2015 03:35:51 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/demarelle/public_html/play/util/functions.php on line 1355
+[12-Jul-2015 03:26:14 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/demarelle/public_html/play/util/functions.php on line 1355
+[15-Jul-2015 02:59:52 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/demarelle/public_html/play/util/functions.php on line 1355
+[15-Jul-2015 03:20:02 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/demarelle/public_html/play/util/functions.php on line 1355
+[15-Jul-2015 03:24:43 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/demarelle/public_html/play/util/functions.php on line 1355
+[19-Jul-2015 02:46:22 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[10-Aug-2015 01:23:23 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[23-Jun-2018 13:07:11 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[14-Jul-2018 10:33:50 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[25-Jul-2018 20:05:29 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[09-Aug-2018 21:58:30 UTC] PHP Notice:  Undefined index: user_id in /home/demarelle/public_html/play/util/quit_match.php on line 5
+[30-Aug-2018 07:25:33 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[24-Sep-2018 09:27:21 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[06-Oct-2018 20:07:22 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[11-Oct-2018 23:16:00 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[12-Oct-2018 23:35:47 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[19-Oct-2018 19:26:59 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[24-Oct-2018 07:36:07 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[25-Oct-2018 20:40:20 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[26-Oct-2018 02:02:53 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[18-Nov-2018 15:22:22 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[24-Nov-2018 05:01:10 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[12-Dec-2018 00:46:39 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[12-Dec-2018 00:50:19 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[12-Dec-2018 00:50:55 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 59
+[12-Dec-2018 00:50:55 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 61
+[12-Dec-2018 00:50:55 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 79
+[12-Dec-2018 00:50:55 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 84
+[12-Dec-2018 00:51:02 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 59
+[12-Dec-2018 00:51:02 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 61
+[12-Dec-2018 00:51:02 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 79
+[12-Dec-2018 00:51:02 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 84
+[21-Dec-2018 19:38:08 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[22-Dec-2018 02:11:17 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[22-Dec-2018 02:13:21 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 59
+[22-Dec-2018 02:13:21 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 61
+[22-Dec-2018 02:13:21 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 79
+[22-Dec-2018 02:13:21 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 84
+[22-Dec-2018 02:13:25 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 59
+[22-Dec-2018 02:13:25 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 61
+[22-Dec-2018 02:13:25 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 79
+[22-Dec-2018 02:13:25 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 84
+[22-Dec-2018 02:13:28 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 59
+[22-Dec-2018 02:13:28 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 61
+[22-Dec-2018 02:13:28 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 79
+[22-Dec-2018 02:13:28 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 84
+[22-Dec-2018 02:13:31 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 59
+[22-Dec-2018 02:13:31 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 61
+[22-Dec-2018 02:13:31 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 79
+[22-Dec-2018 02:13:31 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 84
+[22-Dec-2018 02:13:32 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 59
+[22-Dec-2018 02:13:32 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 61
+[22-Dec-2018 02:13:32 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 79
+[22-Dec-2018 02:13:32 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 84
+[01-Jan-2019 18:34:52 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[08-Jan-2019 16:09:19 UTC] PHP Notice:  Undefined index: user_id in /home/demarelle/public_html/play/util/quit_match.php on line 5
+[08-Jan-2019 17:42:36 UTC] PHP Notice:  Undefined index: user_id in /home/demarelle/public_html/play/util/quit_match.php on line 5
+[16-Jan-2019 15:20:06 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[05-Mar-2019 04:32:49 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[11-Mar-2019 03:30:07 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[26-Mar-2019 21:37:51 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[20-Apr-2019 03:36:56 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[03-May-2019 05:50:47 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[09-May-2019 18:35:44 UTC] PHP Notice:  Undefined index: user_id in /home/demarelle/public_html/play/util/quit_match.php on line 5
+[12-May-2019 22:29:39 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[12-May-2019 22:29:57 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[22-May-2019 23:42:02 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[06-Jul-2019 22:13:26 UTC] PHP Notice:  Use of undefined constant SECURE - assumed 'SECURE' in /home/demarelle/public_html/play/util/functions.php on line 14
+[26-Aug-2019 17:11:28 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[03-Sep-2019 22:16:26 UTC] PHP Notice:  Undefined index: user_id in /home/demarelle/public_html/play/util/quit_match.php on line 5
+[04-Sep-2019 00:22:04 UTC] PHP Notice:  Undefined index: user_id in /home/demarelle/public_html/play/util/quit_match.php on line 5
+[08-Sep-2019 15:42:30 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[16-Sep-2019 13:12:12 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[30-Sep-2019 12:53:24 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[02-Oct-2019 15:23:30 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[19-Oct-2019 00:20:02 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[21-Oct-2019 02:16:17 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[21-Oct-2019 02:16:17 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[20-Nov-2019 08:20:05 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[20-Nov-2019 08:20:05 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[20-Dec-2019 07:58:02 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[24-Dec-2019 08:55:35 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[05-Jan-2020 06:20:05 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[03-Feb-2020 01:26:34 UTC] PHP Notice:  Undefined index: user_id in /home/demarelle/public_html/play/util/quit_match.php on line 5
+[03-Feb-2020 03:38:32 UTC] PHP Notice:  Undefined index: user_id in /home/demarelle/public_html/play/util/quit_match.php on line 5
+[05-Feb-2020 02:09:40 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[05-Feb-2020 02:09:40 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[05-Feb-2020 02:09:41 UTC] PHP Notice:  Undefined index: user_id in /home/demarelle/public_html/play/util/quit_match.php on line 5
+[20-May-2020 03:40:21 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[27-May-2020 07:51:07 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[09-Jun-2020 00:39:18 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[15-Jun-2020 15:10:49 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[03-Jul-2020 10:04:01 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[13-Jul-2020 20:52:29 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[25-Jul-2020 00:54:23 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[03-Aug-2020 20:57:38 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[04-Aug-2020 11:20:21 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[07-Aug-2020 04:20:24 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[16-Aug-2020 08:43:54 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[23-Aug-2020 17:22:02 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[23-Aug-2020 17:22:03 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[30-Aug-2020 19:25:26 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[31-Aug-2020 01:44:00 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[31-Aug-2020 01:44:22 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[02-Sep-2020 18:53:49 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[04-Sep-2020 02:17:09 UTC] PHP Notice:  Undefined index: user_id in /home/demarelle/public_html/play/util/quit_match.php on line 5
+[04-Sep-2020 04:37:20 UTC] PHP Notice:  Undefined index: user_id in /home/demarelle/public_html/play/util/quit_match.php on line 5
+[09-Sep-2020 22:36:42 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[09-Sep-2020 22:36:43 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[16-Sep-2020 16:32:36 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[16-Sep-2020 16:32:38 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[18-Sep-2020 22:29:49 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[22-Sep-2020 01:21:16 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[25-Sep-2020 08:59:08 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[25-Sep-2020 08:59:09 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[03-Oct-2020 17:36:11 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[03-Oct-2020 17:36:11 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[09-Oct-2020 21:53:12 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[15-Oct-2020 16:19:53 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[16-Oct-2020 10:02:56 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[23-Oct-2020 14:04:47 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[23-Oct-2020 14:04:47 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[01-Nov-2020 22:42:37 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[04-Nov-2020 16:01:43 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 59
+[04-Nov-2020 16:01:43 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/demarelle/public_html/play/util/filter_match.php on line 59
+[04-Nov-2020 16:01:43 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 61
+[04-Nov-2020 16:01:43 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/demarelle/public_html/play/util/filter_match.php on line 61
+[04-Nov-2020 16:01:43 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 79
+[04-Nov-2020 16:01:43 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/demarelle/public_html/play/util/filter_match.php on line 79
+[04-Nov-2020 16:01:43 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 84
+[04-Nov-2020 16:01:43 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/demarelle/public_html/play/util/filter_match.php on line 84
+[06-Nov-2020 14:48:31 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[06-Nov-2020 14:48:32 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[13-Nov-2020 01:09:41 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[13-Nov-2020 01:09:41 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[22-Nov-2020 05:42:19 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[23-Nov-2020 09:18:24 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[23-Nov-2020 09:18:26 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[25-Nov-2020 06:03:05 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[09-Dec-2020 01:39:07 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[09-Dec-2020 01:39:08 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[16-Dec-2020 07:54:58 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[24-Dec-2020 13:34:47 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[24-Dec-2020 13:34:47 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[31-Dec-2020 22:25:14 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[01-Jan-2021 03:58:19 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[01-Jan-2021 03:58:20 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[01-Jan-2021 11:32:05 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[01-Jan-2021 14:59:24 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[01-Jan-2021 14:59:25 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[01-Jan-2021 22:41:34 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[08-Jan-2021 07:25:31 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[08-Jan-2021 07:25:33 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[14-Jan-2021 08:37:54 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[14-Jan-2021 08:37:55 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[14-Jan-2021 19:09:37 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 59
+[14-Jan-2021 19:09:37 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/demarelle/public_html/play/util/filter_match.php on line 59
+[14-Jan-2021 19:09:37 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 61
+[14-Jan-2021 19:09:37 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/demarelle/public_html/play/util/filter_match.php on line 61
+[14-Jan-2021 19:09:37 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 79
+[14-Jan-2021 19:09:37 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/demarelle/public_html/play/util/filter_match.php on line 79
+[14-Jan-2021 19:09:37 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 84
+[14-Jan-2021 19:09:37 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/demarelle/public_html/play/util/filter_match.php on line 84
+[14-Jan-2021 19:09:39 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 59
+[14-Jan-2021 19:09:39 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/demarelle/public_html/play/util/filter_match.php on line 59
+[14-Jan-2021 19:09:39 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 61
+[14-Jan-2021 19:09:39 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/demarelle/public_html/play/util/filter_match.php on line 61
+[14-Jan-2021 19:09:39 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 79
+[14-Jan-2021 19:09:39 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/demarelle/public_html/play/util/filter_match.php on line 79
+[14-Jan-2021 19:09:39 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 84
+[14-Jan-2021 19:09:39 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/demarelle/public_html/play/util/filter_match.php on line 84
+[14-Jan-2021 19:09:41 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 59
+[14-Jan-2021 19:09:41 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/demarelle/public_html/play/util/filter_match.php on line 59
+[14-Jan-2021 19:09:41 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 61
+[14-Jan-2021 19:09:41 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/demarelle/public_html/play/util/filter_match.php on line 61
+[14-Jan-2021 19:09:41 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 79
+[14-Jan-2021 19:09:41 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/demarelle/public_html/play/util/filter_match.php on line 79
+[14-Jan-2021 19:09:41 UTC] PHP Notice:  Undefined variable: matches in /home/demarelle/public_html/play/util/filter_match.php on line 84
+[14-Jan-2021 19:09:41 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/demarelle/public_html/play/util/filter_match.php on line 84
+[15-Jan-2021 05:40:29 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[23-Jan-2021 06:29:08 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[23-Jan-2021 06:29:09 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[28-Jan-2021 17:34:57 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[28-Jan-2021 17:34:58 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14
+[06-Feb-2021 13:52:03 UTC] PHP Warning:  Use of undefined constant SECURE - assumed 'SECURE' (this will throw an Error in a future version of PHP) in /home/demarelle/public_html/play/util/functions.php on line 14

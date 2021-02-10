@@ -1,0 +1,3 @@
+[02-Jan-2015 15:46:00 UTC] PHP Fatal error:  Call to undefined function wp_head() in /home/demarelle/public_html/wp-content/themes/eagle/index.php on line 4
+[02-Jan-2015 15:46:23 UTC] PHP Fatal error:  Call to undefined function wp_head() in /home/demarelle/public_html/wp-content/themes/eagle/index.php on line 4
+[02-Jan-2015 15:46:52 UTC] PHP Fatal error:  Call to undefined function wp_head() in /home/demarelle/public_html/wp-content/themes/eagle/index.php on line 4
